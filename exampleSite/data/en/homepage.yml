@@ -53,59 +53,35 @@ banner:
 ############################ call to action ###########################
 cta:
   enable : true
-  bg_image : "images/call-to-action-bg.jpg"
-  title : "We design delightful digital experiences."
-  content : "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  title : "We've love to hear from you."
+  content : "Do you consider yourself Asian-American? We encourage you to contribute you experiences."
   button:
     enable : true
-    label : "Tell Us Your Story"
+    label : "Share a story"
     link : "contact"
 
-############################# Funfacts ###############################
+############################# Spotlight ###############################
 funfacts:
   enable : true
-  title : "Fun Facts About Us"
-  description : "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
+  title : "Spotlight"
+  description : "''"
   funfact_item:
     # funfacts item loop
-    - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Cups Of Coffee"
-      count : "99"
-      
-    # funfacts item loop
-    - icon : "ion-ios-glasses-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Article Written"
-      count : "45"
-      
-    # funfacts item loop
-    - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Projects Completed"
-      count : "125"
-      
-    # funfacts item loop
-    - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Combined Projects"
-      count : "200"
+    - icon : "ion-ios-people" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Population of Asian-Americans"
+      count : "22,408,464"
 
   testimonial_slider:
     # testimonial item loop
-    - name : "Raymond Roy"
-      image : "images/clients/avater-1.jpg"
-      designation : "CEO-Themefisher"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
-                
+    - name : "Cathy Park Hong"
+      image : "images/cathyparkhong.jpg"
+      designation : "Author, 'Minor Feelings: an Asian-American Reckoning'"
+      content : "At a time when identities can be walled off, it's essential to lift up the life of Yuri Kochiyama, whose
+                sense of we was porous and large, whose mission was to amplify the voices of others while amplifying hers."
+                            
     # testimonial item loop
-    - name : "Randi Renin"
-      image : "images/clients/avater-1.jpg"
-      designation : "CEO-Themefisher"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
-                
-    # testimonial item loop
-    - name : "Rose Rio"
-      image : "images/clients/avater-3.jpg"
-      designation : "CEO-Themefisher"
-      content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
-                ideas we feel that our site has unique elements that make us stand out from the crowd."
+    - name : "Ocean Vuong"
+      image : "images/oceanvuong.jpg"
+      designation : "Author, 'On Earth We're Briefly Gorgeous'"
+      content : "Let no one mistake us for the fruit of violence- but that violence, having passed through the fruit, 
+                failed to spoil it."

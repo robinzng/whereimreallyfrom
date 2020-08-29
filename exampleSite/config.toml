@@ -72,7 +72,6 @@ unsafe = true
 home = ["HTML", "RSS"]
 [params]
 author = "Robin Zeng"
-search = true
 contact_form_action = "#"
 description = "An Archive of Asian-American Stories"
 email = "wirfeditors@email.com"
@@ -111,10 +110,6 @@ link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 link = "plugins/shuffle/shuffle.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
-[[params.plugins.js]]
-link = "plugins/search/mark.js"
-[[params.plugins.js]]
-link = "plugins/search/search.js"
 [params.preloader]
 enable = true
 preloader = ""
