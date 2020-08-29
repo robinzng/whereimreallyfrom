@@ -54,7 +54,7 @@ banner:
 cta:
   enable : true
   title : "We've love to hear from you."
-  content : "Do you consider yourself Asian-American? We encourage you to contribute you experiences."
+  content : "Do you consider yourself Asian-American? We encourage you to contribute your experiences."
   button:
     enable : true
     label : "Share a story"
@@ -69,7 +69,7 @@ funfacts:
     # funfacts item loop
     - icon : "ion-ios-people" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Population of Asian-Americans"
-      count : "22,408,464"
+      count : "22408464"
 
   testimonial_slider:
     # testimonial item loop
