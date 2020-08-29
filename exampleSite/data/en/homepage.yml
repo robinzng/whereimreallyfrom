@@ -73,14 +73,14 @@ funfacts:
   testimonial_slider:
     # testimonial item loop
     - name : "Cathy Park Hong"
-      image : "images/cathyparkhong.jpg"
+      image : "images/clients/cathyparkhong.jpg"
       designation : "Author, 'Minor Feelings: an Asian-American Reckoning'"
       content : "At a time when identities can be walled off, it's essential to lift up the life of Yuri Kochiyama, whose
                 sense of we was porous and large, whose mission was to amplify the voices of others while amplifying hers."
                             
     # testimonial item loop
     - name : "Ocean Vuong"
-      image : "images/oceanvuong.jpg"
+      image : "images/clients/oceanvuong.jpg"
       designation : "Author, 'On Earth We're Briefly Gorgeous'"
       content : "Let no one mistake us for the fruit of violence- but that violence, having passed through the fruit, 
                 failed to spoil it."
