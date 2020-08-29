@@ -50,14 +50,14 @@ about:
 
 
 ############################ call to action ###########################
-#cta:
-#  enable : true
-#  title : "We've love to hear from you."
-#  content : "Do you consider yourself Asian-American? We encourage you to contribute your experiences."
-#  button:
-#    enable : true
-#    label : "Share a story"
-#    link : "contact"
+cta:
+  enable : true
+  title : "We've love to hear from you."
+  content : "Do you consider yourself Asian-American? We encourage you to contribute your experiences."
+  button:
+    enable : true
+    label : "Share a story"
+    link : "submit"
 
 ############################# Spotlight ###############################
 funfacts:
