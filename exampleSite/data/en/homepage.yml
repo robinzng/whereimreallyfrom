@@ -3,12 +3,16 @@ banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
   bg_overlay : true
-  title : "A Digital Marketing <br/> & Design Agency"
-  content : "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title : "We come from generations of storytellers."
+  content : "The stories we tell define who we are. We are inheritors of a powerful narrative tradition, descended from the Epic of Gilgamesh, the Tale of Genji, the Mahabharata, the Romance of Three Kingdoms, and countless other mythologies that preserve our ancestors’ legacies. Now, it’s our turn. It’s our turn to share our personal and inter-generational stories so often overlooked. It’s our turn to preserve and honor the trials and triumphs of ourselves and our families. It is our turn, now, to expand the narrative of what it means to be Asian American."
   button:
     enable : true
-    label : "Discover Our Project"
-    link : "project"
+    label : "Read a story"
+    link : "read"
+  button:
+    enable : true
+    label : "Share a story"
+    link : "submit"
 
 ############################# About #################################
 about:
