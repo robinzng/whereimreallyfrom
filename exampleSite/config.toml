@@ -12,142 +12,58 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.footer]]
-URL = "about"
-name = "About"
+URL = "read"
+name = "Read"
 weight = 1
 [[Languages.en.menu.footer]]
-URL = "project"
-name = "Project"
+URL = "submit"
+name = "Submit"
 weight = 2
 [[Languages.en.menu.footer]]
-URL = "service"
-name = "Service"
+URL = "learn"
+name = "Learn"
 weight = 3
-[[Languages.en.menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 4
-[[Languages.en.menu.footer]]
-URL = "faq"
-name = "FAQ"
-weight = 5
 [[Languages.en.menu.footer]]
 URL = "contact"
 name = "Contact"
-weight = 6
+weight = 4
 [[Languages.en.menu.main]]
 URL = "/"
 name = "Home"
 weight = 1
 [[Languages.en.menu.main]]
-URL = "about"
-name = "About"
+URL = "read"
+name = "Read"
 weight = 2
 [[Languages.en.menu.main]]
-URL = "project"
-name = "Project"
+URL = "submit"
+name = "Submit"
 weight = 3
-[[Languages.en.menu.main]]
-URL = "service"
-name = "Service"
-weight = 4
-[[Languages.en.menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 5
 [[Languages.en.menu.main]]
 hasChildren = true
-name = "Pages"
-weight = 6
-[[Languages.en.menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
-[[Languages.en.menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
-[[Languages.en.menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 7
-[Languages.fr]
-contentDir = "content/french"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
-[[Languages.fr.menu.footer]]
-URL = "about"
-name = "About"
-weight = 1
-[[Languages.fr.menu.footer]]
-URL = "project"
-name = "Project"
-weight = 2
-[[Languages.fr.menu.footer]]
-URL = "service"
-name = "Service"
-weight = 3
-[[Languages.fr.menu.footer]]
-URL = "pricing"
-name = "Pricing"
+URL = "learn"
+name = "Learn"
 weight = 4
-[[Languages.fr.menu.footer]]
-URL = "faq"
-name = "FAQ"
-weight = 5
-[[Languages.fr.menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 6
-[[Languages.fr.menu.main]]
-URL = "/"
-name = "Accueil"
-weight = 1
-[[Languages.fr.menu.main]]
-URL = "about"
-name = "À propos"
-weight = 2
-[[Languages.fr.menu.main]]
-URL = "project"
-name = "Projet"
-weight = 3
-[[Languages.fr.menu.main]]
-URL = "service"
-name = "Un service"
-weight = 4
-[[Languages.fr.menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 5
-[[Languages.fr.menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 6
-[[Languages.fr.menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
-[[Languages.fr.menu.main]]
-URL = "pricing"
-name = "Tarification"
-parent = "Pages"
-[[Languages.fr.menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 7
+[[Languages.en.menu.main]]
+URL = "learn"
+name = "About Us"
+parent = "Learn"
+[[Languages.en.menu.main]]
+URL = "resources"
+name = "Resources"
+parent = "Learn"
+
 [markup.goldmark.renderer]
 unsafe = true
 [outputs]
 home = ["HTML", "RSS"]
 [params]
-author = "Themefisher"
+author = "Robin Zeng"
 contact_form_action = "#"
-description = "This is meta description"
-email = "demo@email.com"
+description = "An Archive of Asian-American Stories"
+email = "wirfeditors@email.com"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "USA"
 logo = "images/logo.png"
 mobile = "0124857985320"
 multi_author = false
