@@ -16,7 +16,7 @@ URL = "read"
 name = "Read"
 weight = 1
 [[Languages.en.menu.footer]]
-URL = "submit"
+URL = "contact"
 name = "Submit"
 weight = 2
 [[Languages.en.menu.footer]]
@@ -33,7 +33,7 @@ name = "Read"
 weight = 2
 [[Languages.en.menu.main]]
 hasChildren = true
-URL = "submit"
+URL = "contact"
 name = "Submit"
 weight = 3
 [[Languages.en.menu.main]]
