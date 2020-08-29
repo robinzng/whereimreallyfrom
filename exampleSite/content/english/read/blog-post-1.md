@@ -3,7 +3,7 @@ title: "Sample Post"
 date: 2020-08-29
 author: Anonymous
 image : "images/blog/blog-post-1.jpg"
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/family2.jpg"
 categories: ["Audio","Video","Text"] 
 tags: ["War","Community"]
 description: "Quick blurb"
