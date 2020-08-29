@@ -19,12 +19,8 @@ about:
   enable : true
   title : "We are an archive of Asian-American narratives."
   description : ""
-  content : "This is a space for us to tell our own stories."
+  content : "Too often, the Asian American story is forced to focus on specific qualities of language, food, and other pre-concieved notions of race. In this space, we break the mold. Our stories are told how we want to tell them, in our own language, in our own flair. Even as our stories are unique, our experiences can be common."
   image :
-  button:
-    enable : true
-    label : "Share a story"
-    link : "submit"
 
 
 ######################### Portfolio ###############################
