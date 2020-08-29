@@ -20,8 +20,8 @@ URL = "submit"
 name = "Submit"
 weight = 2
 [[Languages.en.menu.footer]]
-URL = "learn"
-name = "Learn"
+URL = "resources"
+name = "Resources"
 weight = 3
 [[Languages.en.menu.footer]]
 URL = "contact"
@@ -36,16 +36,29 @@ URL = "read"
 name = "Read"
 weight = 2
 [[Languages.en.menu.main]]
+hasChildren = true
 URL = "submit"
 name = "Submit"
 weight = 3
+[[Languages.en.menu.main]]
+URL = "submit"
+name = "Submit a Story"
+parent = "Submit"
+[[Languages.en.menu.main]]
+URL = "tips"
+name = "Submission Tips"
+parent = "Submit"
+[[Languages.en.menu.main]]
+URL = "guidelines"
+name = "Submission Guidelines"
+parent = "Submit"
 [[Languages.en.menu.main]]
 hasChildren = true
 URL = "learn"
 name = "Learn"
 weight = 4
 [[Languages.en.menu.main]]
-URL = "learn"
+URL = "about"
 name = "About Us"
 parent = "Learn"
 [[Languages.en.menu.main]]
@@ -59,6 +72,7 @@ unsafe = true
 home = ["HTML", "RSS"]
 [params]
 author = "Robin Zeng"
+search = true
 contact_form_action = "#"
 description = "An Archive of Asian-American Stories"
 email = "wirfeditors@email.com"
@@ -97,6 +111,10 @@ link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 link = "plugins/shuffle/shuffle.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
 [params.preloader]
 enable = true
 preloader = ""
