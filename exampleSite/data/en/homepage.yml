@@ -15,12 +15,12 @@ banner:
     link : "read"
 
 ############################# About #################################
-about:
-  enable : true
-  title : "We are an archive of Asian-American narratives."
-  description : ""
-  content : "Too often, the Asian American story is forced to focus on specific qualities of language, food, and other pre-concieved notions of race. In this space, we break the mold. Our stories are told how we want to tell them, in our own language, in our own flair. Even as our stories are unique, our experiences can be common."
-  image :
+#about:
+#  enable : true
+#  title : "We are an archive of Asian-American narratives."
+#  description : ""
+###  content : "Too often, the Asian American story is forced to focus on specific qualities of language, food, and other pre-concieved notions of race. In this space, we break the mold. Our stories are told how we want to tell them, in our own language, in our own flair. Even as our stories are unique, our experiences can be common."
+  #image :
 
 
 ######################### Portfolio ###############################
@@ -53,7 +53,7 @@ about:
 cta:
   enable : true
   title : "We've love to hear from you."
-  content : "Do you consider yourself Asian-American? We encourage you to contribute your experiences."
+  content : "This is a space to preserve the Asian-American experience, in all its complexity, before it is lost."
   button:
     enable : true
     label : "Share a story"
