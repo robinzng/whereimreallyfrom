@@ -69,7 +69,7 @@ funfacts:
     # funfacts item loop
     - icon : "ion-ios-people" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Population of Asian-Americans"
-      count : "22408464"
+      count : "100"
 
   testimonial_slider:
     # testimonial item loop
