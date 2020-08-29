@@ -59,7 +59,7 @@ cta:
   button:
     enable : true
     label : "Tell Us Your Story"
-    link : "contact"
+    link : "submit"
 
 ############################# Funfacts ###############################
 funfacts:
