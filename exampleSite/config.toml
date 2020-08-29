@@ -41,16 +41,16 @@ URL = "submit"
 name = "Submit"
 weight = 3
 [[Languages.en.menu.main]]
-URL = "submit"
-name = "Submit a Story"
-parent = "Submit"
-[[Languages.en.menu.main]]
 URL = "tips"
-name = "Submission Tips"
+name = "Tips"
 parent = "Submit"
 [[Languages.en.menu.main]]
 URL = "guidelines"
-name = "Submission Guidelines"
+name = "Guidelines"
+parent = "Submit"
+[[Languages.en.menu.main]]
+URL = "submit"
+name = "Submit a Story"
 parent = "Submit"
 [[Languages.en.menu.main]]
 hasChildren = true
