@@ -23,10 +23,6 @@ weight = 2
 URL = "resources"
 name = "Resources"
 weight = 3
-[[Languages.en.menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 4
 [[Languages.en.menu.main]]
 URL = "/"
 name = "Home"
