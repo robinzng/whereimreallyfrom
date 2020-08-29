@@ -4,11 +4,14 @@ banner:
   bg_image : "images/slider-bg.jpg"
   bg_overlay : true
   title : <b> We come from generations of storytellers. </b>
-  content : "The stories we tell define who we are. We are inheritors of a powerful narrative tradition, descended from the Epic of Gilgamesh, 
-          <br> the Tale of Genji, the Mahabharata, the Romance of Three Kingdoms, and countless other mythologies that preserve our ancestors’ legacies. 
-          <br> Now, it’s our turn. It’s our turn to share our personal and inter-generational stories so often overlooked. 
-          <br> It’s our turn to preserve and honor the trials and triumphs of ourselves and our families. It is our turn, now, 
-          <br> to expand the narrative of what it means to be Asian American."
+  content : "The stories we tell define who we are. We are inheritors of 
+  a powerful narrative tradition, descended from the Epic of Gilgamesh, 
+  the Tale of Genji, the Mahabharata, the Romance of Three Kingdoms, and 
+  countless other mythologies that preserve our ancestors’ legacies. Now, 
+  it’s our turn. It’s our turn to share our personal and inter-generational 
+  stories so often overlooked. It’s our turn to preserve and honor the trials
+  and triumphs of ourselves and our families. It is our turn, now, to expand
+  the narrative of what it means to be Asian American."
   button:
     enable : true
     label : "Start reading"
