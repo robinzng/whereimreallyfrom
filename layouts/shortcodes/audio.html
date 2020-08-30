@@ -1,0 +1,5 @@
+{{ if .IsNamedParams }}
+<audio src="{{.Get "src" }}" alt="">
+{{ else }}
+<audio src="{{.Get 0}}" alt="">
+{{ end }}
