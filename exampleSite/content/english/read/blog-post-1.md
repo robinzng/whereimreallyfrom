@@ -3,47 +3,39 @@ title: "Sample Post"
 date: 2020-08-29
 author: Anonymous
 image : "images/blog/blog-post-1.jpg"
-bg_image: "images/family2.jpg"
-categories: ["Audio","Video","Text"] 
+bg_image: "images/slider-bg.jpg"
+categories: ["Audio","Video","Text","Picture"] 
 tags: ["War","Community"]
 description: "Quick blurb"
 draft: false
 type: "post"
 ---
 
+Hello! This is a sample post to help you when publishing submissions.  </p>
 
-Hello! This is a sample post with a few examples of the different formats your post can take. A few notes:  </p>
+On the inputs above: <br>
+* If the submitter doesn't provide a title, just name it "Untitled"
+* Date is the date the post goes up, not the date it was shared with us
+* Author is Anonymous for anybody who doesn't want their information shared
+* For the "image" input above, aim for a 1:2 aspect ratio; crop if necessary. Default to images/slider-bg.jpg if there is no image.
+* Default the bg_image to whatever the first photo in the post is, or images/slider-bg.jpg if there is no image.
+* Categories are by submission format
+* Tags are by content
+* Description: Leave blank if not provided
+* Draft is false once you decide to publish it
+* Type is post
 
-* For the "image" input above, aim for a 1:2 aspect ratio.
+On the formats the submission might take: </p>
 
-You can embed images within the content like so: 
+1. You can embed images by saving the image to images/blog, and then using the below code: 
 
-{{< figure src="/images/family1.jpg" title="Family" >}}
+{{< figure src="/images/blog/blog-post-1.jpg">}}
 
-You can embed a video like so: 
+1. You can embed a video by uploading it to Youtube, and then using the below code. <b>Make sure you mark it as "Private" unless otherwise noted!</b>
 
 {{< youtube R6SNtgQjyrU >}}
 
-> You can put fancy text here! 
+3. You can embed plain audio by saving audio to audio, and then using the below code: 
 
-You can also include something like the below: </p>
+{{< audio src="/audio/yeehaw.mp3">}}
 
-```
-  .blog-classic {
-  margin-bottom: 70px;
-  padding-bottom: 70px;
-  border-bottom: 1px solid #efefef;
-  }
-```
-
-
-* this
-* is
-* a 
-* bulleted
-* list
-
-1. and
-2. a 
-3. numbered
-4. list
