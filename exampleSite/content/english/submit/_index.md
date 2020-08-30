@@ -1,6 +1,6 @@
 ---
-title: "Get in touch with us"
-description: "Have a story you'd like to share? Or just want to contact us?"
+title: "Share your story"
+description: ""
 draft: false
 bg_image: "images/slider-bg.jpg"
 ---
