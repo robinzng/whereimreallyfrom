@@ -16,6 +16,10 @@ Hello! This is a sample post with a few examples of the different formats your p
 
 * For the "image" input above, aim for a 1:2 aspect ratio.
 
+You can embed images within the content like so: 
+
+{{< figure src="/images/family1.jpg" title="Family" >}}
+
 You can embed a video like so: 
 
 {{< youtube R6SNtgQjyrU >}}
