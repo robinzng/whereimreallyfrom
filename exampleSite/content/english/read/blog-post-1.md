@@ -29,7 +29,7 @@ On the formats the submission might take: </p>
 
 1. You can embed images by saving the image to images/blog, and then using the below code: 
 
-{{< figure src="/images/blog/blog-post-1.jpg">}}
+<img src="/images/blog/blog-post-1.jpg" alt="blog-post-1" width="200"/>
 
 1. You can embed a video by uploading it to Youtube, and then using the below code. <b>Make sure you mark it as "Private" unless otherwise noted!</b>
 
