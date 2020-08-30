@@ -45,7 +45,7 @@ URL = "guidelines"
 name = "Guidelines"
 parent = "Submit"
 [[Languages.en.menu.main]]
-URL = "submit"
+URL = "contact"
 name = "Submit a Story"
 parent = "Submit"
 [[Languages.en.menu.main]]
