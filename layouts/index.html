@@ -132,26 +132,6 @@
   </div>
 </section>
 {{ end}}
-
-{{ if $data.about.mission_vision.enable }}
-{{ with $data.about.mission_vision }}
-<div class="col-md-6">
-  <div class="tabCommon">
-    <ul class="nav nav-tabs">
-      {{ range $index, $elements := .tabs }}
-      <li {{ if eq $index 0}} class="active" {{ end }}><a href="#{{.name | urlize}}"
-          data-toggle="tab">{{.name}}</a></li>
-      {{ end }}
-    </ul>
-    <div class="tab-content">
-      {{ range $index, $elements := .tabs }}
-      <div id="{{.name | urlize}}" class="tab-pane fade {{ if eq $index 0}} active in {{ end }}">
-        <p>{{ .content | markdownify }}</p>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</div>
-{{ end }}
+{{ end}}
 
 {{ end }}
