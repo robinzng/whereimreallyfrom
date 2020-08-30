@@ -40,7 +40,7 @@
             <!-- <li><i class="ion-ios-telephone-outline"></i>{{i18n "phone"}}: {{ site.Params.phone }}</li> -->
           <!-- </ul> -->
           <ul class="social-icons">
-            <li><i class="ion-ios-email-outline"></i>{{i18n "email"}}: <a href="mailto:{{ site.Params.email }}">{{ site.Params.email }}</a></li>       
+            <li><i class="ion-ios-email-outline">{{i18n "email"}}: <a href="mailto:{{ site.Params.email }}"></a></i></li>       
             {{ range site.Params.social }}
             <li><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
             {{ end }}
