@@ -11,7 +11,7 @@ banner:
 
 ############################# About #################################
 about:
-  enable : true
+  enable : false
   title : "We come from generations of storytellers."
   description : ""
   content : "The stories we tell define who we are. We are inheritors of 

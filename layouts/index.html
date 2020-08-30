@@ -35,17 +35,17 @@
       <div class="col-md-7 col-sm-12">
         <div class="block">
           <div class="section-title">
-            <h2>{{ .title | markdownify }}</h2>
+            <h1>{{ .title | markdownify }}</h1>
             <p>{{ .description | markdownify }}</p>
           </div>
           <p>{{ .content | markdownify }}</p>
         </div>
       </div>
-      <div class="col-md-5 col-sm-12">
+<!--       <div class="col-md-5 col-sm-12">
         <div class="block">
           <img src="{{ .image | relURL }}" class="img-responsive" alt="Img">
         </div>
-      </div>
+      </div> -->
     </div>
   </div>
 </section>
@@ -132,6 +132,26 @@
   </div>
 </section>
 {{ end}}
+{{ if $data.about.mission_vision.enable }}
+{{ with $data.about.mission_vision }}
+<div class="col-md-6">
+  <div class="tabCommon">
+    <ul class="nav nav-tabs">
+      {{ range $index, $elements := .tabs }}
+      <li {{ if eq $index 0}} class="active" {{ end }}><a href="#{{.name | urlize}}"
+          data-toggle="tab">{{.name}}</a></li>
+      {{ end }}
+    </ul>
+    <div class="tab-content">
+      {{ range $index, $elements := .tabs }}
+      <div id="{{.name | urlize}}" class="tab-pane fade {{ if eq $index 0}} active in {{ end }}">
+        <p>{{ .content | markdownify }}</p>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}
 {{ end}}
 
 {{ end }}
