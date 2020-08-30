@@ -4,6 +4,16 @@
 
 {{ $data := index site.Data site.Language.Lang }}
 
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+</section>
+
 {{ if $data.about.about.enable }}
 {{ with $data.about.about }}
 <section class="about section">
