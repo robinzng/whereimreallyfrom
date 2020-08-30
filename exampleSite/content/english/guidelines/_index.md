@@ -6,6 +6,8 @@ draft: false
 bg_image: "images/slider-bg.jpg"
 ---
 
+By participating in our community, you agree to the following: </p>
+
 * No hate speech
 * Include trigger or content warnings for topics such as:
   * Violence
