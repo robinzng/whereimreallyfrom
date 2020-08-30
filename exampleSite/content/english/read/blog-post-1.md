@@ -37,5 +37,3 @@ On the formats the submission might take: </p>
 
 3. Plain audio is not yet enabled, but I'm working on it.
 
-{{< src="/audio/yeehaw.mp3">}}
-
