@@ -3,9 +3,9 @@ about:
   enable : true
   image : "images/family2.jpg"
   title : "Who are we?"
-  content : "We are a past and a future
+  content : "We are a past and a future"
 
-            This project was born out of the Black Lives Matter protests of 2020. During that summer, we realized that to be truly anti-racist means also to be educated on our own Asian American history. We began with Cathy Park Hong’s Minor Feelings: An Asian American Reckoning.
+            "This project was born out of the Black Lives Matter protests of 2020. During that summer, we realized that to be truly anti-racist means also to be educated on our own Asian American history. We began with Cathy Park Hong’s Minor Feelings: An Asian American Reckoning.
 
             We are a nation of storytellers
 
@@ -91,19 +91,6 @@ about:
 testimonial:
   enable : false
   # testimonial content comes from "data/*/homepage.yml" file
-
-mission_vision:
-  enable : true
-  tabs:
-    # tab item loop
-    - name : "Vision"
-      content : "We envision a world in which Asian-American stereotypes no longer exist."
-      
-    # tab item loop
-    - name : "Mission"
-      content : "We aim to collect and share experiences that break the mold, that speak 
-                to the diversity of lives we've led."
-
 
 ############################# call to action #################################
 cta:

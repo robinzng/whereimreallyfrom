@@ -3,7 +3,17 @@ banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
   bg_overlay : true
-  title : <b> We come from generations of storytellers. </b>
+  title : Stories from the Asian-American diaspora
+  button:
+    enable : true
+    label : "Start reading"
+    link : "read"
+
+############################# About #################################
+about:
+  enable : true
+  title : "We come from generations of storytellers."
+  description : ""
   content : "The stories we tell define who we are. We are inheritors of 
   a powerful narrative tradition, descended from the Epic of Gilgamesh, 
   the Tale of Genji, the Mahabharata, the Romance of Three Kingdoms, and 
@@ -12,18 +22,6 @@ banner:
   stories so often overlooked. It’s our turn to preserve and honor the trials
   and triumphs of ourselves and our families. It is our turn, now, to expand
   the narrative of what it means to be Asian American."
-  button:
-    enable : true
-    label : "Start reading"
-    link : "read"
-
-############################# About #################################
-#about:
-#  enable : true
-#  title : "We are an archive of Asian-American narratives."
-#  description : ""
-###  content : "Too often, the Asian American story is forced to focus on specific qualities of language, food, and other pre-concieved notions of race. In this space, we break the mold. Our stories are told how we want to tell them, in our own language, in our own flair. Even as our stories are unique, our experiences can be common."
-  #image :
 
 
 ######################### Portfolio ###############################
@@ -62,11 +60,11 @@ cta:
     label : "Share a story"
     link : "contact"
 
-############################# Spotlight ###############################
+############################# Feature Spotlight ###############################
 funfacts:
   enable : true
-  title : "Spotlight"
-  description : ""
+  title : "Feature Spotlight"
+  description : "Some of these are really cheesy but could still be useful?"
   funfact_item:
     # funfacts item loop
     - icon : "ion-ios-people" #ionicon pack v2 : https://ionicons.com/v2/
@@ -87,3 +85,15 @@ funfacts:
       designation : "Author, 'On Earth We're Briefly Gorgeous'"
       content : "Let no one mistake us for the fruit of violence- but that violence, having passed through the fruit, 
                 failed to spoil it."
+
+mission_vision:
+  enable : true
+  tabs:
+    # tab item loop
+    - name : "Vision"
+      content : "We envision a world in which Asian-American stereotypes no longer exist."
+      
+    # tab item loop
+    - name : "Mission"
+      content : "We aim to collect and share experiences that break the mold, that speak 
+                to the diversity of lives we've led."
