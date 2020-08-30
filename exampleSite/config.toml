@@ -16,7 +16,7 @@ URL = "read"
 name = "Read"
 weight = 1
 [[Languages.en.menu.footer]]
-URL = "contact"
+URL = "submit"
 name = "Submit"
 weight = 2
 [[Languages.en.menu.footer]]
@@ -33,7 +33,7 @@ name = "Read"
 weight = 2
 [[Languages.en.menu.main]]
 hasChildren = true
-URL = "contact"
+URL = "submit"
 name = "Submit"
 weight = 3
 [[Languages.en.menu.main]]
@@ -45,7 +45,7 @@ URL = "guidelines"
 name = "Guidelines"
 parent = "Submit"
 [[Languages.en.menu.main]]
-URL = "contact"
+URL = "submit"
 name = "Submit a Story"
 parent = "Submit"
 [[Languages.en.menu.main]]
@@ -85,7 +85,7 @@ map_marker = "images/marker.png"
 [params.nav_button]
 enable = true
 label = "Get A Quote"
-link = "contact"
+link = "submit"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]

@@ -58,7 +58,7 @@ cta:
   button:
     enable : true
     label : "Share a story"
-    link : "contact"
+    link : "submit"
 
 ############################# Feature Spotlight ###############################
 funfacts:
