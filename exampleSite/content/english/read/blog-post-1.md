@@ -35,7 +35,7 @@ On the formats the submission might take: </p>
 
 {{< youtube R6SNtgQjyrU >}}
 
-3. You can embed plain audio by saving audio to audio, and then using the below code: 
+3. Plain audio is not yet enabled, but I'm working on it.
 
-{{< audio src="/audio/yeehaw.mp3">}}
+{{< src="/audio/yeehaw.mp3">}}
 
