@@ -3,7 +3,7 @@ title: "Community Guidelines"
 description: ""
 subtitle : ""
 draft: false
-bg_image: "images/feature2.jpg"
+bg_image: "images/slider-bg.jpg"
 ---
 
 * No hate speech

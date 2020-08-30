@@ -2,5 +2,5 @@
 title: "About Us"
 description: ""
 draft: false
-bg_image: "images/feature1.jpg"
+bg_image: "images/slider-bg.jpg"
 ---

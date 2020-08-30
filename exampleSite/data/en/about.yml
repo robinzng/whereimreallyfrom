@@ -1,7 +1,7 @@
 ################################## About #####################################
 about:
   enable : true
-  image : "images/family2.jpg"
+  image : "images/slider-bg.jpg"
   title : "Who are we?"
   content : "We are a past and a future
   
