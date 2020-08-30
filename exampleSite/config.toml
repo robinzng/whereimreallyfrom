@@ -37,10 +37,6 @@ URL = "submit"
 name = "Submit"
 weight = 3
 [[Languages.en.menu.main]]
-URL = "tips"
-name = "Tips"
-parent = "Submit"
-[[Languages.en.menu.main]]
 URL = "guidelines"
 name = "Guidelines"
 parent = "Submit"
