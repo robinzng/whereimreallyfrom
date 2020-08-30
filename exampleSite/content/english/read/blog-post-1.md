@@ -29,7 +29,7 @@ On the formats the submission might take: </p>
 
 1. You can embed images by saving the image to images/blog, and then using the below code. 
 
-<img src="/images/blog/blog-post-1.jpg" alt="blog-post-1" width="200"/>
+< img src="/images/blog/blog-post-1.jpg" alt="blog-post-1" width="200"/>
 
 1. You can embed a video by uploading it to Youtube, and then using the below code (where the string is the text after "v=" in the video link). <b>Make sure you mark it as "Private" unless otherwise noted!</b>
 
@@ -37,4 +37,4 @@ On the formats the submission might take: </p>
 
 3. Plain audio is not yet enabled, but I'm working on it.
 
-{{< src="/audio/yeehaw.mp3">}}
+{{< audio src="/audio/yeehaw.mp3">}}
