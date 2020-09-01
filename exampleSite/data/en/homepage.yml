@@ -1,7 +1,7 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/slider-bg2.jpg"
+  bg_image : "images/color_parser.jpg"
   bg_overlay : true
   title : Stories from the Asian-American diaspora
   button:

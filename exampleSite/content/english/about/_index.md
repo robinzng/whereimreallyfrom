@@ -2,7 +2,7 @@
 title: "Who are we?"
 description: ""
 draft: false
-bg_image: "images/slider-bg2.jpg"
+bg_image: "images/color_parser.jpg"
 ---
 
 # We are a past and a future

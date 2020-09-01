@@ -2,7 +2,7 @@
 title: "Share your story"
 description: ""
 draft: false
-bg_image: "images/slider-bg2.jpg"
+bg_image: "images/color_parser.jpg"
 ---
 
 ## How it works: 
