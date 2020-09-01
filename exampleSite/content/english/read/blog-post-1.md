@@ -35,6 +35,6 @@ On the formats the submission might take: </p>
 
 {{< youtube R6SNtgQjyrU >}}
 
-3. Plain audio is not yet enabled, but I'm working on it.
+3. PLAIN AUDIO IS ENABLED THANK GOD
 
 {{< audio mp3="/audio/yeehaw.mp3" >}}
