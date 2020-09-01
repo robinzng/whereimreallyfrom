@@ -3,7 +3,7 @@ title: "Community Guidelines"
 description: ""
 subtitle : ""
 draft: false
-bg_image: "images/color_parser.jpg"
+bg_image: "images/slider-bg2.jpg"
 ---
 
 By participating in our community, you agree to the following: </p>
