@@ -37,4 +37,4 @@ On the formats the submission might take: </p>
 
 3. Plain audio is not yet enabled, but I'm working on it.
 
-{{< audio mp3="yeehaw.mp3" >}}
+{{< audio mp3="/audio/yeehaw.mp3" >}}
