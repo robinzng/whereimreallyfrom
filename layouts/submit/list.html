@@ -16,7 +16,10 @@
 <section class="contact-form">
   <div class="container">
     <div class="row">
-      <form method="POST" action="https://docs.google.com/forms/d/e/1FAIpQLSfzFnNfhTv-8GhCxrhJdLEws6jV3iOQJiDcLKHy--aDdUk15Q/formResponse">
+      <script type="text/javascript">var submitted=false;</script>
+        <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
+        onload="if(submitted) {window.location='thankyou.html';}"></iframe>
+      <form method="POST" action="https://docs.google.com/forms/d/e/1FAIpQLSfzFnNfhTv-8GhCxrhJdLEws6jV3iOQJiDcLKHy--aDdUk15Q/formResponse" target="hidden_iframe" onsubmit="submitted=true;">
         <div class="col-md-12 col-sm-12">
           <div class="block">
             <div class="form-group">
