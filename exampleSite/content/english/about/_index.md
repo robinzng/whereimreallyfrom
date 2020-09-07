@@ -1,5 +1,5 @@
 ---
-title: "Who are we?"
+title: <b> Who are we? </b>
 description: ""
 draft: false
 bg_image: "images/slider-bg2.jpg"

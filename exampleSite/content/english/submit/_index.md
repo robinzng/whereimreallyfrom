@@ -1,5 +1,5 @@
 ---
-title: "Share your story"
+title: <b> Share your story </b>
 description: ""
 draft: false
 bg_image: "images/slider-bg2.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "Stories (in our own words)"
+title: <b> Stories (in our own words) </b>
 description: ""
 draft: false
 bg_image: "images/slider-bg2.jpg"
