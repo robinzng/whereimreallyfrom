@@ -1,5 +1,5 @@
 ---
-title: <b> Community Guidelines </b>
+title: "Community Guidelines"
 description: ""
 subtitle : ""
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: <b> Thank you </b>
+title: "Thank you"
 description: ""
 draft: false
 bg_image: "images/slider-bg2.jpg"

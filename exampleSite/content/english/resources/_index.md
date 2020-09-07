@@ -1,5 +1,5 @@
 ---
-title: <b> Resources </b>
+title: "Resources"
 description: ""
 draft: false
 bg_image: "images/slider-bg2.jpg"
