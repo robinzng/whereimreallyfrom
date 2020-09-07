@@ -62,7 +62,7 @@ cta:
 
 ############################# Feature Spotlight ###############################
 funfacts:
-  enable : true
+  enable : false
   title : "Feature Spotlight"
   description : "Some of these are really cheesy but could still be useful?"
   funfact_item:
@@ -85,15 +85,3 @@ funfacts:
       designation : "Author, 'On Earth We're Briefly Gorgeous'"
       content : "Let no one mistake us for the fruit of violence- but that violence, having passed through the fruit, 
                 failed to spoil it."
-
-mission_vision:
-  enable : true
-  tabs:
-    # tab item loop
-    - name : "Vision"
-      content : "We envision a world in which Asian-American stereotypes no longer exist."
-      
-    # tab item loop
-    - name : "Mission"
-      content : "We aim to collect and share experiences that break the mold, that speak 
-                to the diversity of lives we've led."
