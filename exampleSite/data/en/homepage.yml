@@ -3,7 +3,7 @@ banner:
   enable : true
   bg_image : "images/slider-bg2.jpg"
   bg_overlay : true
-  title : Stories from the Asian-American diaspora
+  title : <b> Stories from the Asian-American diaspora </b>
   button:
     enable : true
     label : "Start reading"
