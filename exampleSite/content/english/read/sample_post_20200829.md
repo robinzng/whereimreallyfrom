@@ -43,7 +43,7 @@ Please message Robin if you need further help!
 
 1. Upload all your images to exampleSite/static/images/blog using the same name as your post. If you have multiple images associated with a post, add an underscore and a number to distinguish them (e.g. "sample_post_20200829_1", "sample_post_20200829_2", etc.) 
 2. You can reference an image in the inputs by entering its path, e.g. "images/blog/sample_post_20200829.jpg".
-3. You can embed images by using the below code. 
+3. You can embed images by using the below code. Update "width" to change the size of the image. 
 
 <img src="/images/blog/sample_post_20200829.jpg" alt="Alt text" width="200"/>
 
