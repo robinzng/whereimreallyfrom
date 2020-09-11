@@ -17,7 +17,7 @@ In an effort to cultivate a space in which people feel safe to share their stori
 - **We are “porous”:** This is primarily an educational site meant to help you situate your family and yourself within Pan-Asian history and activism. We are not an activist site. While we will accept suggestions and references to places that are explicitly activist and happily include them in our [resources page](https://wirf.netlify.app/resources/), please be aware that our purpose is more adjacent.
 - **Check your biases at the front door:** We welcome questions and discussions that lead to deeper historical and ethnographic scholarship! Historical revisionism is a time-honored tradition in historiography, but we draw the line at historical negationism.
 
-
+</p>
 **Content Moderation**
 - **Original content:** While we accept all formats of content, we will accept only original content. Cite any sources that are not exclusively your own.
 - **Content Tagging/Content Warnings:** We want our website to be a safe and welcoming space for people to share their families’ stories. Please provide a comprehensive list of all subjects that your piece contains, including sensitive material so that we can tag and categorize accordingly. 
