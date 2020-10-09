@@ -69,7 +69,7 @@ description = "An Archive of Asian-American Stories"
 email = "wirfeditors@email.com" 
 google_analitycs_id = ""
 location = "USA"
-logo = "images/logo.png"
+logo = "images/lotus_final.png"
 mobile = "0124857985320"
 multi_author = false
 [params.gmap]
