@@ -70,7 +70,7 @@ email = "wirfeditors@email.com"
 google_analitycs_id = ""
 location = "USA"
 logo = "images/lotus_final.png"
-mobile = "0124857985320"
+mobile = "0123456789"
 multi_author = false
 [params.gmap]
 enable = false
