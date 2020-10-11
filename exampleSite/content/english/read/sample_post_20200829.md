@@ -16,7 +16,7 @@ Hello! This is a sample post to help you when publishing submissions.  </p>
 ## Instructions: </p>
 
 1. In the "read" folder, click "Add file," then "Create new file."
-2. Name your file using the following convention: "blog_title_yyyymmdd.md". Check out the name of this file for an example. 
+2. Name your file using the following convention: "blog_title_yyyymmdd.md". Make sure you include ".md" at the end or it won't publish!!! Check out the name of this file for an example. 
 3. Copy and paste the inputs above (everything in between the 3 hyphens) at the top of your new file, and edit accordingly. See "Inputs Tips" below for help on filling these in.
 4. Copy and paste the content from the submission below the last 3 hyphens. See the rest of this file for formatting help. 
 5. Once you're done, hit "Commit Changes" at the bottom of the page (no need to change any settings!) and you're all set :) 
