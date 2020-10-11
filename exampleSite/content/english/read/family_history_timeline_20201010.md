@@ -14,23 +14,17 @@ type: "post"
 ## My Family History </p>
 
 Growing up, my father was a huge history buff. He had a big bookshelf full of antiques, from old Edison rolls and typewriters to an ever-growing collection of old family photos.
-We would regularly spend Sunday afternoons going through, first real Polaroids, and eventually, electronic slide shows of his family history. My Dad is Caucasian, and thanks  
-to websites like MyAncestry.com and other sites, he was able to trace his family line all the way back to the 1700's, which is when the first member of his family immigrated to the
-US from Great Britain. However, although I know a lot about my dad's family history, until recently, I knew practically nothing about my mom's South Korean family history. My mom
-passed away when I was fairly little, so I missed out being able to ask her these questions as I got older.
+We would regularly spend Sunday afternoons going through, first real Polaroids, and eventually, electronic slide shows of his family history. My Dad is Caucasian, and thanks to 
+websites like MyAncestry.com and other sites, he was able to trace his family line all the way back to the 1700's, which is when the first member of his family immigrated to the
+US from Great Britain. However, although I know a lot about my dad's family history, until recently, I knew practically nothing about my mom's South Korean family history. My 
+mom passed away when I was fairly little, so I missed out being able to ask her these questions as I got older.
 
-However, I was recently inspired to find out as much as I can about her family line: because her story deserves to be told and passed down as much as my dad's.
-I interviewed my uncle, who did his best to tell me about our family history, going all the way back to my great grandparents. Amazingly, my dad also found a document from my mother,
-detailing a lot of family history facts that she specifically had saved for me and my brother. This project has brought me closer to my South Korean relatives,
+I was recently inspired to find out as much as I can about her family line: because her story deserves to be told and passed down as much as my dad's.
+I interviewed my uncle, who did his best to tell me about our family history, going all the way back to my great grandparents. Amazingly, my dad also found a document from my mother, detailing a lot of family history facts that she specifically had saved for me and my brother. This project has brought me closer to my South Korean relatives,
 and it showcases the life journey of my ancestors. I am grateful to be able to share this family history.
 
 <img src="/images/blog/family_history_timeline_20201010.jpg" alt="Alt text" width="200"/>
 
-### Slidewshow: </p>
+### Slideshow: </p>
 
-1. Upload the video to Youtube using the wirfeditors@gmail.com account.
-2. From the link to the video, copy the text after "v=".
-3. Paste the text into the below code where the current string (the R6SNtgQjyrU) is. 
-4. Once you've committed changes to your post, update the description in the Youtube video to say "Read the full story from "Where I'm Really From" here:" and include the link to the new post. 
-
-{{< youtube R6SNtgQjyrU >}}
+{{< youtube TszPTIIE_GY&feature=youtu.be >}}
