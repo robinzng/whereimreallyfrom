@@ -27,4 +27,4 @@ and it showcases the life journey of my ancestors. I am grateful to be able to s
 
 ### Slideshow: </p>
 
-{{< youtube TszPTIIE_GY&feature=youtu.be >}}
+{{< youtube TszPTIIE_GY >}}
