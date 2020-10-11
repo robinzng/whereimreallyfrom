@@ -9,7 +9,7 @@ bg_image: "images/slider-bg2.jpg"
 
 ### 1. Check out our [Interviewing Tips](https://keen-shirley-2fbefd.netlify.app/tips) for how to interview your family members for stories.
 
-### 2. Refer to our examples below, for inspiration and guidance:
+### 2. Refer to our example stories below, for inspiration and guidance:
 
 Short Family Story Example: [short story here](https://wirf.netlify.app/read/sample_post_20200829/)
 
