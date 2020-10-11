@@ -46,90 +46,90 @@ What styles of clothing did people wear then? <br>
 What fairy tales or stories did you parents tell you when you were a kid? <br>
 Did you have a favorite childhood book, song, movie, radio show, or other piece of media? If so, what was it? <br>
 
-**Family Traditions**
-Did your family have any special traditions, such as things that they did on holidays or birthdays? What is a favorite memory from one of these traditions?
-What about family heirlooms? Is there anything that's been handed down from generation to generation?
+**Family Traditions** <br>
+Did your family have any special traditions, such as things that they did on holidays or birthdays? What is a favorite memory from one of these traditions? <br>
+What about family heirlooms? Is there anything that's been handed down from generation to generation? <br>
 
-**Growing Up**
-When did you leave home?
-Why did you leave and where did you go?
-How did your life change? Did you feel grown up? Were you a little scared?
+**Growing Up** <br>
+When did you leave home? <br>
+Why did you leave and where did you go? <br>
+How did your life change? Did you feel grown up? Were you a little scared? <br>
 
-**Historical Events**
-Which significant historical events have taken place during your lifetime?
-Were there wars, natural disasters, or political changes?
-How did these events affect you?
+**Historical Events** <br>
+Which significant historical events have taken place during your lifetime? <br>
+Were there wars, natural disasters, or political changes? <br>
+How did these events affect you? <br>
 
-**Hometown**
-What was the name of the place where you grew up?
-Was it a big city or a small town?
-Were there any special activities or festivals at different times during the year?
-What was your favorite spot to go to in your hometown? What did you do there?
+**Hometown** <br>
+What was the name of the place where you grew up? <br>
+Was it a big city or a small town? <br>
+Were there any special activities or festivals at different times during the year? <br>
+What was your favorite spot to go to in your hometown? What did you do there? <br>
 
-**Immigration**
-How old were you when you immigrated to the United States?
-Where did you come from and where and when did you arrive?
-How did you travel? By boat, plane, or train? How long did the trip take?
-What feelings did you have about coming to the United States? What was one of the biggest differences between the United States and your previous home?
-What different cities did you live in within the US? What were your favorite spots to go in each city? What did you do there?
+**Immigration** <br>
+How old were you when you immigrated to the United States? <br>
+Where did you come from and where and when did you arrive? <br>
+How did you travel? By boat, plane, or train? How long did the trip take? <br>
+What feelings did you have about coming to the United States? What was one of the biggest differences between the United States and your previous home? <br>
+What different cities did you live in within the US? What were your favorite spots to go in each city? What did you do there? <br>
 
-**Work**
-What did your parents do for a living when you were growing up? Did you ever help them out?
-Was your family financially comfortable?
-What was your first job? How old were you at the time? How did you get your job?
-What different jobs have you had during your life?
+**Work** <br>
+What did your parents do for a living when you were growing up? Did you ever help them out? <br>
+Was your family financially comfortable? <br>
+What was your first job? How old were you at the time? How did you get your job? <br>
+What different jobs have you had during your life? <br>
 
-**Physical Characteristics**
-What physical characteristics do people in your family share?
-Do they all have the same hair color or eye color?
-Whom in the family do you resemble?
+**Physical Characteristics** <br>
+What physical characteristics do people in your family share? <br>
+Do they all have the same hair color or eye color? <br>
+Whom in the family do you resemble? <br>
 
-**Previous Generations**
-Did you know your parents, grandparents or great-grandparents?
-What were their names?
-Where did they live?
-What stories can you tell about them and their lives?
-Which significant historical events have taken place during their lifetime? How did those events affect them?
+**Previous Generations** <br>
+Did you know your parents, grandparents or great-grandparents? <br>
+What were their names? <br>
+Where did they live? <br>
+What stories can you tell about them and their lives? <br>
+Which significant historical events have taken place during their lifetime? How did those events affect them? <br>
 
-**Religion**
-What part did religion play in your family?
-Were you very religious?
-Did you go to religious services on a regular basis?
+**Religion** <br>
+What part did religion play in your family? <br>
+Were you very religious? <br>
+Did you go to religious services on a regular basis? <br>
 
-**Food/Cuisine**
-What were your favorite dishes growing up? What was your favorite thing about those dishes?
-Are there any family recipes you still have, and can pass down?
+**Food/Cuisine** <br>
+What were your favorite dishes growing up? What was your favorite thing about those dishes? <br>
+Are there any family recipes you still have, and can pass down? <br>
 
-**Travel**
-Did you and your family travel anywhere while you were young?
-Did you travel as an adult? Where did you go, and what were your favorite memories
+**Travel** <br>
+Did you and your family travel anywhere while you were young? <br>
+Did you travel as an adult? Where did you go, and what were your favorite memories <br>
 
-**Education**
-Where did you go to school? What did you like most about school? Did you have a favorite class?
-Where did your siblings go to school? Did they have their own favorite subjects?
-Did anyone in your family play a musical instrument, or have a favorite hobby (i.e. a sport or handcraft like sewing, etc.)?
+**Education** <br>
+Where did you go to school? What did you like most about school? Did you have a favorite class? <br>
+Where did your siblings go to school? Did they have their own favorite subjects? <br>
+Did anyone in your family play a musical instrument, or have a favorite hobby (i.e. a sport or handcraft like sewing, etc.)? <br>
 
-**Family/Friend Personalities**
-Who in your family or friends has/had the biggest personalities (serious, comedic, charismatic, etc.)? 
-What are some of your favorite memories from these people?
+**Family/Friend Personalities** <br>
+Who in your family or friends has/had the biggest personalities (serious, comedic, charismatic, etc.)?  <br>
+What are some of your favorite memories from these people? <br>
 
-**Family Pets**
-Did your family have any pets? If so, what pets did you have?
+**Family Pets** <br>
+Did your family have any pets? If so, what pets did you have? <br>
 
-**Favorite Media:**
-As an adult, what are your favorote pieces of medie (songs, movies, etc.)?
-Why are they your favorite?
+**Favorite Media:** <br>
+As an adult, what are your favorote pieces of medie (songs, movies, etc.)? <br>
+Why are they your favorite? <br>
 
-**Marriage/Raising a Family**
-When did you get married?
-How many children did you have? What do you recall about your children’s personalities?
+**Marriage/Raising a Family** <br>
+When did you get married? <br>
+How many children did you have? What do you recall about your children’s personalities? <br>
 
-**Entertainers of the Era:**
-Who were the big stars in your country growing up? Did you like them? If so, what did you like about them?
-Who are your favorite entertainers now (in the US and/or in your home country, if relevant)? What do you like about them?
+**Entertainers of the Era:** <br>
+Who were the big stars in your country growing up? Did you like them? If so, what did you like about them? <br>
+Who are your favorite entertainers now (in the US and/or in your home country, if relevant)? What do you like about them? <br>
 
-**Other Possible Topics**
-Politics, Military Service, Recreation, Dating, Clothing, Family Medical History, and anything else that may be of interest to you and your family.
+**Other Possible Topics** <br>
+Politics, Military Service, Recreation, Dating, Clothing, Family Medical History, and anything else that may be of interest to you and your family. <br>
 
 
 ### Credits: Inspiration for the interviewing tips, as well as a lot of these suggested questions were taken from genealogy.com’s tips for recording oral histories: [Get Nosy with Aunt Rosie: Example Questions for Oral Histories](https://www.genealogy.com/articles/research/70_tipsoral.html)
