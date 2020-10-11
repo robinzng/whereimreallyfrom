@@ -10,16 +10,10 @@ bg_image: "images/slider-bg2.jpg"
 ### 1. Check out our [Interviewing Tips](https://keen-shirley-2fbefd.netlify.app/tips) for how to interview your family members for stories.
 
 ### 2. Refer to our example stories below, for inspiration and guidance:
-
-
-- Short Family Story Example: [short story here](https://wirf.netlify.app/read/sample_post_20200829/)
-
-- Family Recipe Example: [family recipe here](https://wirf.netlify.app/read/sample_post_20200829/)
-
-- Family History Timeline Example: [Family History Timeline](https://wirf.netlify.app/read/family_history_timeline_20201010/)
-
-- Oral History Recording Example: [oral history here](https://wirf.netlify.app/read/sample_post_20200829/)
-
+* Short Family Story Example: [short story here](https://wirf.netlify.app/read/sample_post_20200829/)
+* Family Recipe Example: [family recipe here](https://wirf.netlify.app/read/sample_post_20200829/)
+* Family History Timeline Example: [Family History Timeline](https://wirf.netlify.app/read/family_history_timeline_20201010/)
+* Oral History Recording Example: [oral history here](https://wirf.netlify.app/read/sample_post_20200829/)
 ### 3. Fill out the form below. Make sure to fill in all required fields before hitting send, otherwise your submission will be lost. If you'd like to attach multi-media to your story, please email us at [wirfeditors@gmail.com](mailto:wirfeditors@gmail.com)
 ### 4. Our editors will reach out to you with suggestions, questions, or a link to your newly-posted story!
 ### 5. Share widely. Together, we can amplify Asian American voices.
