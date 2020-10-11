@@ -35,19 +35,16 @@ bg_image: "images/slider-bg2.jpg"
 1. Thank your family member(s) for their time and if needed, schedule a follow-up interview.
 2. Save any notes you took, and any recordings you made. Back up your files if possible.
 
-
-
-
 ### Suggested Interview Questions:
 
-**Childhood**
-What do you recall about your childhood?
-Where did you live and go to school?
-What do you remember best about your parents?
-What did you and your siblings do in your spare time?
-What styles of clothing did people wear then?
-What fairy tales or stories did you parents tell you when you were a kid?
-Did you have a favorite childhood book, song, movie, radio show, or other piece of media? If so, what was it?
+**Childhood** <br>
+What do you recall about your childhood? <br>
+Where did you live and go to school? <br>
+What do you remember best about your parents? <br>
+What did you and your siblings do in your spare time? <br>
+What styles of clothing did people wear then? <br>
+What fairy tales or stories did you parents tell you when you were a kid? <br>
+Did you have a favorite childhood book, song, movie, radio show, or other piece of media? If so, what was it? <br>
 
 **Family Traditions**
 Did your family have any special traditions, such as things that they did on holidays or birthdays? What is a favorite memory from one of these traditions?
