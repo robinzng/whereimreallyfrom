@@ -38,9 +38,7 @@ bg_image: "images/slider-bg2.jpg"
 ### Suggested Interview Questions:
 
 **Childhood**
-
 What do you recall about your childhood?
-
 Where did you live and go to school?
 What do you remember best about your parents?
 What did you and your siblings do in your spare time?
