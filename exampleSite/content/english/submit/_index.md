@@ -7,7 +7,7 @@ bg_image: "images/slider-bg2.jpg"
 
 ## How it works: 
 
-### 1. Check out our [Interviewing Iips](https://keen-shirley-2fbefd.netlify.app/tips) for how to interview your family members for stories.
+### 1. Check out our [Interviewing Tips](https://keen-shirley-2fbefd.netlify.app/tips) for how to interview your family members for stories.
 
 ### 2. Refer to our examples below, for inspiration and guidance:
 
