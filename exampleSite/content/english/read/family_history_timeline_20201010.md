@@ -4,7 +4,7 @@ date: 2020-10-10
 author: Anonymous
 image : "images/blog/family_history_timeline_20201010.jpg"
 bg_image: "images/blog/family_history_timeline_20201010.jpg"
-categories: ["Video","Text","Picture","Timeline"] 
+categories: ["Video","Text","Timeline"] 
 tags: ["History","Korea","Immigration"]
 description: "Family History Timeline"
 draft: false
@@ -22,8 +22,6 @@ mom passed away when I was fairly little, so I missed out being able to ask her 
 I was recently inspired to find out as much as I can about her family line: because her story deserves to be told and passed down as much as my dad's.
 I interviewed my uncle, who did his best to tell me about our family history, going all the way back to my great grandparents. Amazingly, my dad also found a document from my mother, detailing a lot of family history facts that she specifically had saved for me and my brother. This project has brought me closer to my South Korean relatives,
 and it showcases the life journey of my ancestors. I am grateful to be able to share this family history.
-
-<img src="/images/blog/family_history_timeline_20201010.jpg" alt="Alt text" width="200"/>
 
 ### Slideshow: </p>
 
