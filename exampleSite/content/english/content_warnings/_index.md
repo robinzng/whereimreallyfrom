@@ -32,32 +32,32 @@ bg_image: "images/slider-bg2.jpg"
 - 50k+  
 
   ##### **Video**  
-- 1-5 minutes
-- 5-10 minutes
-- 10-20 minutes
-- 20+ minutes
-- A Whole Fucking Documentary  
+    - 1-5 minutes
+    - 5-10 minutes
+    - 10-20 minutes
+    - 20+ minutes
+    - A Whole Fucking Documentary  
 
   ##### **Genre**  
-- Writing
-- Video
-- Art
-- Timeline
-- Auditory recording
-- Recipe 
+    - Writing
+    - Video
+    - Art
+    - Timeline
+    - Auditory recording
+    - Recipe 
   
   ##### **Graphic Trauma**  
-    > War
-    > Immigration
-    > Divorce
-    > Violence
-    > Sexual violence
-    > Physical violence
-    > Domestic/intimate partner violence
-    > Mental health issues
-    > Major death
-    > Substance Abuse
-    > Homophobia  
+    - War
+    - Immigration
+    - Divorce
+    - Violence
+    - Sexual violence
+    - Physical violence
+    - Domestic/intimate partner violence
+    - Mental health issues
+    - Major death
+    - Substance Abuse
+    - Homophobia  
 
   ##### **Relationships**  
   - Sexual content
