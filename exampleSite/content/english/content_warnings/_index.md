@@ -8,27 +8,6 @@ bg_image: "images/slider-bg2.jpg"
 
 #### **Out of respect for everyone’s personal experiences, as well as to maintain an orderly archive, we ask that you tag your works appropriately. To help you come up with tags, we have created a (non-exhaustive) list of our own:**  
 
-  ##### **Graphic Trauma**  
-    > War
-    > Immigration
-    > Divorce
-    > Violence
-    > Sexual violence
-    > Physical violence
-    > Domestic/intimate partner violence
-    > Mental health issues
-    > Major death
-    > Substance Abuse
-    > Homophobia  
-
-  ##### **Relationships**  
-- Sexual content
-- Marriage
-- Friendship
-- Romance
-- Migration
-- Family Legend  
-
   ##### **Culture**  
 - 'Country of origin'
 - Cross-cultural pollination
@@ -65,6 +44,29 @@ bg_image: "images/slider-bg2.jpg"
 - Art
 - Timeline
 - Auditory recording
-- Recipe
+- Recipe 
+  
+  ##### **Graphic Trauma**  
+    > War
+    > Immigration
+    > Divorce
+    > Violence
+    > Sexual violence
+    > Physical violence
+    > Domestic/intimate partner violence
+    > Mental health issues
+    > Major death
+    > Substance Abuse
+    > Homophobia  
+
+  ##### **Relationships**  
+  - Sexual content
+  - Marriage
+  - Friendship
+  - Romance
+  - Migration
+  - Family Legend  
+
+  
 
 #### **Feel free to add others!!**
