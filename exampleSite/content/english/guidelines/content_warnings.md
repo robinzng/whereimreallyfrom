@@ -21,6 +21,7 @@ Graphic Trauma
 : Substance Abuse
 : Homophobia
 
+
 Relationships
 : Sexual content
 : Marriage
@@ -29,11 +30,13 @@ Relationships
 : Migration
 : Family Legend
 
+
 Culture
 : 'Country of origin'
 : Cross-cultural pollination
 : Food
 : Religion
+
 
 Family members
 : Great-grandparent+
@@ -44,6 +47,7 @@ Family members
 : Child
 : Sibling
 
+
 Word count range
 : 0-1000
 : 1000-5000
@@ -52,12 +56,14 @@ Word count range
 : 20k-50k
 : 50k+
 
+
 Video
 : 1-5 minutes
 : 5-10 minutes
 : 10-20 minutes
 : 20+ minutes
 : A Whole Fucking Documentary
+
 
 Genre
 : Writing
