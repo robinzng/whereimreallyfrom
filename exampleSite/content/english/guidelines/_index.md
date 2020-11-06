@@ -31,7 +31,7 @@ A diversity of experience means that occasionally someone may have a different p
 
 *    **We are “porous”:** 
 
-This is primarily an educational site meant to help you situate your family and yourself within Pan-Asian history and activism. We are not an activist site. While we will accept suggestions and references to places that are explicitly activist and happily include them in our [resources page](https://wirf.netlify.app/resources/), please be aware that our purpose is more adjacent.
+This is primarily an educational site meant to help you situate your family and yourself within Pan-Asian history and activism. We are not an activist site. While we will accept suggestions and references to places that are explicitly activist and happily include them in our [resources page](http://www.whereimreallyfrom.com/resources/), please be aware that our purpose is more adjacent.
 
 *    **Check your biases at the front door:** 
 
@@ -44,11 +44,11 @@ While we accept all formats of content, we will accept only original content. Ci
 
 *    **Content Tagging/Content Warnings:** 
 
-We want our website to be a safe and welcoming space for people to share their families’ stories. Please provide a comprehensive list of all subjects that your piece contains, including sensitive material so that we can tag and categorize accordingly. [Here](https://wirf.netlify.app/guidelines/content_warnings) is a non-comprehensive list of tags you might want to include.
+We want our website to be a safe and welcoming space for people to share their families’ stories. Please provide a comprehensive list of all subjects that your piece contains, including sensitive material so that we can tag and categorize accordingly. [Here](http://www.whereimreallyfrom.com/guidelines/content_warnings) is a non-comprehensive list of tags you might want to include.
 
 *    **Irrelevant, low quality, or negative content:** 
 
-As real humans behind this website, our moderators have lives, too! As such, we are not able to provide in-depth editing or formatting help beyond [our formatting guidelines here](https://wirf.netlify.app/submit/). Please treat your piece with love and seriousness because it will be on the internet forever.
+As real humans behind this website, our moderators have lives, too! As such, we are not able to provide in-depth editing or formatting help beyond [our formatting guidelines here](http://www.whereimreallyfrom.com/submit/). Please treat your piece with love and seriousness because it will be on the internet forever.
 
 *    **Promotion or spam:** 
 
