@@ -44,7 +44,7 @@ While we accept all formats of content, we will accept only original content. Ci
 
 *    **Content Tagging/Content Warnings:** 
 
-We want our website to be a safe and welcoming space for people to share their families’ stories. Please provide a comprehensive list of all subjects that your piece contains, including sensitive material so that we can tag and categorize accordingly. [Here]() is a non-comprehensive list of tags you might want to include.
+We want our website to be a safe and welcoming space for people to share their families’ stories. Please provide a comprehensive list of all subjects that your piece contains, including sensitive material so that we can tag and categorize accordingly. [Here](https://wirf.netlify.app/guidelines/content_warnings) is a non-comprehensive list of tags you might want to include.
 
 *    **Irrelevant, low quality, or negative content:** 
 
