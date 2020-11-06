@@ -19,7 +19,7 @@ bg_image: "images/slider-bg2.jpg"
 - Mental health issues
 - Major death
 - Substance Abuse
-- Homophobia
+- Homophobia  
   
 **Relationships**  
 - Sexual content
@@ -27,13 +27,13 @@ bg_image: "images/slider-bg2.jpg"
 - Friendship
 - Romance
 - Migration
-- Family Legend
+- Family Legend  
   
 **Culture**  
 - 'Country of origin'
 - Cross-cultural pollination
 - Food
-- Religion
+- Religion  
   
 **Family members**  
 - Great-grandparent+
@@ -42,7 +42,7 @@ bg_image: "images/slider-bg2.jpg"
 - Aunt/Uncle
 - Cousin
 - Child
-- Sibling
+- Sibling  
   
 **Word count range**  
 - 0-1000
@@ -50,14 +50,14 @@ bg_image: "images/slider-bg2.jpg"
 - 5000-10000
 - 10k-20k
 - 20k-50k
-- 50k+
+- 50k+  
   
 **Video**  
 - 1-5 minutes
 - 5-10 minutes
 - 10-20 minutes
 - 20+ minutes
-- A Whole Fucking Documentary
+- A Whole Fucking Documentary  
   
 **Genre**  
 - Writing
