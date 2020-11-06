@@ -1,5 +1,5 @@
 ---
-title: "Community Guidelines"
+title: "Content Warnings"
 description: ""
 subtitle : ""
 draft: false
