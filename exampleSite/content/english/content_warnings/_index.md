@@ -7,8 +7,8 @@ bg_image: "images/slider-bg2.jpg"
 ---
 
 #### **Out of respect for everyone’s personal experiences, as well as to maintain an orderly archive, we ask that you tag your works appropriately. To help you come up with tags, we have created a (non-exhaustive) list of our own:**  
-<p>&nbsp;</p>
-**Graphic Trauma**  
+
+  **Graphic Trauma**  
 - War
 - Immigration
 - Divorce
@@ -20,22 +20,22 @@ bg_image: "images/slider-bg2.jpg"
 - Major death
 - Substance Abuse
 - Homophobia  
-<p>&nbsp;</p>
-**Relationships**  
+
+  **Relationships**  
 - Sexual content
 - Marriage
 - Friendship
 - Romance
 - Migration
 - Family Legend  
-<p>&nbsp;</p>
-**Culture**  
+
+  **Culture**  
 - 'Country of origin'
 - Cross-cultural pollination
 - Food
 - Religion  
-<p>&nbsp;</p>
-**Family members**  
+
+  **Family members**  
 - Great-grandparent+
 - Grandparent
 - Parent
@@ -43,23 +43,23 @@ bg_image: "images/slider-bg2.jpg"
 - Cousin
 - Child
 - Sibling  
-<p>&nbsp;</p>
-**Word count range**  
+
+  **Word count range**  
 - 0-1000
 - 1000-5000
 - 5000-10000
 - 10k-20k
 - 20k-50k
 - 50k+  
-<p>&nbsp;</p>
-**Video**  
+
+  **Video**  
 - 1-5 minutes
 - 5-10 minutes
 - 10-20 minutes
 - 20+ minutes
 - A Whole Fucking Documentary  
-<p>&nbsp;</p>
-**Genre**  
+
+  **Genre**  
 - Writing
 - Video
 - Art
