@@ -48,7 +48,7 @@ We want our website to be a safe and welcoming space for people to share their f
 
 *    **Irrelevant, low quality, or negative content:** 
 
-As real humans behind this website, our moderators have lives, too! As such, we are not able to provide in-depth editing or formatting help beyond [our formatting guidelines here](). Please treat your piece with love and seriousness because it will be on the internet forever.
+As real humans behind this website, our moderators have lives, too! As such, we are not able to provide in-depth editing or formatting help beyond [our formatting guidelines here](https://wirf.netlify.app/submit/). Please treat your piece with love and seriousness because it will be on the internet forever.
 
 *    **Promotion or spam:** 
 
