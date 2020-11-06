@@ -5,9 +5,9 @@ subtitle : ""
 draft: false
 bg_image: "images/slider-bg2.jpg"
 ---
-
-
-**Graphic Trauma**
+  
+  
+**Graphic Trauma**  
 - War
 - Immigration
 - Divorce
@@ -20,7 +20,7 @@ bg_image: "images/slider-bg2.jpg"
 - Substance Abuse
 - Homophobia
 
-**Relationships**
+**Relationships**  
 - Sexual content
 - Marriage
 - Friendship
@@ -28,13 +28,13 @@ bg_image: "images/slider-bg2.jpg"
 - Migration
 - Family Legend
 
-**Culture**
+**Culture**  
 - 'Country of origin'
 - Cross-cultural pollination
 - Food
 - Religion
 
-**Family members**
+**Family members**  
 - Great-grandparent+
 - Grandparent
 - Parent
@@ -43,7 +43,7 @@ bg_image: "images/slider-bg2.jpg"
 - Child
 - Sibling
 
-**Word count range**
+**Word count range**  
 - 0-1000
 - 1000-5000
 - 5000-10000
@@ -51,14 +51,14 @@ bg_image: "images/slider-bg2.jpg"
 - 20k-50k
 - 50k+
 
-**Video**
+**Video**  
 - 1-5 minutes
 - 5-10 minutes
 - 10-20 minutes
 - 20+ minutes
 - A Whole Fucking Documentary
 
-**Genre**
+**Genre**  
 - Writing
 - Video
 - Art
