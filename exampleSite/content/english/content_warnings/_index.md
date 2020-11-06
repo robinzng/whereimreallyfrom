@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Content Warnings"
 description: ""
 subtitle : ""
 draft: false
