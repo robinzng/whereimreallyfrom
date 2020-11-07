@@ -4,10 +4,10 @@ date: 2020-08-29
 author: Anonymous
 image : "images/blog/sample_post_20200829.jpg"
 bg_image: "images/slider-bg2.jpg"
-categories: ["Audio","Video","Text","Picture","Timeline"] 
-tags: ["Food","Parents","War"]
+categories: 
+tags: 
 description: "Quick blurb"
-draft: false
+draft: TRUE
 type: "post"
 ---
 
