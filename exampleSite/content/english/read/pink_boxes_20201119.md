@@ -13,6 +13,8 @@ type: "post"
 
 <img src="/images/blog/pink_boxes_20201119.jpeg" alt="Four-year-old me at Best Donuts — with one of my signature bowl cuts (Credit: Yin Y Chen)"/>
 
+<p></p>
+
 I had my first direct encounter with the law at age 10.
 
 Over summer break, I was running around the family donut shop — carrying large stacks of pink boxes — when a city official entered the store. The man’s one-sided conversation left my parents in ominous silence. After his departure, I glanced at the sizable stack of documents that he left for my parents to comb through. My adolescent instincts led me to conclude that the single-spaced, imageless documents indicated a serious adult issue. But when my father pried his head away from the pages and locked eyes with me, I knew that the issue was, in fact, me.
