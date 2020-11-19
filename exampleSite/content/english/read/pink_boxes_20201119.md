@@ -2,7 +2,7 @@
 title: "Pink Boxes: Unfolding into an Unlikely Symbol of Resistance"
 date: 2020-11-19
 author: Emily C. Taing
-image : "images/blog/pink_boxes_20201119.jpeg"
+image : "images/blog/pink_boxes_20201119_2.jpg"
 bg_image: "images/slider-bg2.jpg"
 categories: ["Text","Picture"] 
 tags: ["Cambodia","Food","Family","Resistance","Donuts"]
@@ -10,6 +10,8 @@ description:
 draft: false
 type: "post"
 ---
+
+<img src="/images/blog/pink_boxes_20201119.jpeg" alt="Four-year-old me at Best Donuts — with one of my signature bowl cuts (Credit: Yin Y Chen)"/>
 
 I had my first direct encounter with the law at age 10.
 
