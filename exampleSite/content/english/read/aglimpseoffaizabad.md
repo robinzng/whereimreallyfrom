@@ -7,7 +7,7 @@ bg_image: "images/slider-bg2.jpg"
 categories: 
 tags: 
 description: ""
-draft: FALSE
+draft: TRUE
 type: "post"
 ---
 
