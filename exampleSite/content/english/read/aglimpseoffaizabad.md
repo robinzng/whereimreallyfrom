@@ -6,7 +6,7 @@ image : "images/blog/sample_post_20200829.jpg"
 bg_image: "images/slider-bg2.jpg"
 categories: 
 tags: 
-description: "A Glimpse of Faizabad."
+description: "A Glimpse of Faizabad"
 draft: FALSE
 type: "post"
 ---
