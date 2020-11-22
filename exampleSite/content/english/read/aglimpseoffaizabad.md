@@ -11,4 +11,4 @@ draft: FALSE
 type: "post"
 ---
 
-{{< youtube YFs_HTBRRc8& >}}
+{{< youtube YFs_HTBRRc8 >}}
