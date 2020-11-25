@@ -53,7 +53,7 @@ about:
 ############################ call to action ###########################
 cta:
   enable : true
-  title : "We've love to hear from you."
+  title : "We'd love to hear from you."
   content : "This is a space to preserve the Asian-American experience, in all its complexity, before it is lost."
   button:
     enable : true
