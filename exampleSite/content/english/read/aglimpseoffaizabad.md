@@ -2,12 +2,12 @@
 title: "A Glimpse of Faizabad, India"
 date: 2020-11-26
 author: Adeeba A.
-image : "images/blog/sample_post_20200829.jpg"
+image : "images/blog/aglimpseoffaizabad.png"
 bg_image: "images/slider-bg2.jpg"
-categories: Video,
+categories: Video, Text
 tags: India, Family, Identity
 description: ""
-draft: TRUE
+draft: FALSE
 type: "post"
 ---
 
