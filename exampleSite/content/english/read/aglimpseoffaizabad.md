@@ -4,8 +4,8 @@ date: 2020-11-28
 author: Adeeba A.
 image : "images/blog/aglimpseoffaizabad.jpg"
 bg_image: "images/slider-bg2.jpg"
-categories: 
-tags: 
+categories: ["Video","Text"] 
+tags: ["History","Family","Identity"]
 description: " "
 draft: FALSE
 type: "post"
