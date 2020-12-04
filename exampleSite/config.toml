@@ -64,6 +64,7 @@ unsafe = true
 home = ["HTML", "RSS"]
 [params]
 author = "Robin Zeng"
+favicon = "129534495_216352026531934_6572110516762244017_n.png"
 contact_form_action = "#"
 description = "An Archive of Asian-American Stories"
 email = "wirfeditors@email.com" 
