@@ -1,4 +1,4 @@
-baseURL = "http://www.whereimreallyfrom.com"
+baseURL = "https://www.whereimreallyfrom.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "4"
