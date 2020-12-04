@@ -59,7 +59,7 @@ name = "Resources"
 parent = "Learn"
 
 [markup.goldmark.renderer]
-unsafe = true
+unsafe = false
 [outputs]
 home = ["HTML", "RSS"]
 [params]
