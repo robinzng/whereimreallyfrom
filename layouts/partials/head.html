@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
   {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
-    <link rel="icon" type="image/png" href="/favicon.png"/>
+  {{ with .Site.Params.favicon }}<link rel="icon" type="image/png" href="/favicon.png"/>
   <link rel="icon" type="image/png" href="http://whereimreallyfrom.com/favicon.png"/>
   {{ end }}
   {{ hugo.Generator }}
@@ -21,6 +21,6 @@
   {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
 
-  {{ with .Site.Params.favicon }}
+  
 
 </head>
