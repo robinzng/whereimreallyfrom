@@ -11,7 +11,7 @@ This project was born out of the Black Lives Matter protests of 2020. During tha
 
 # We are a nation of storytellers
 
-From ancient 成语 to modern morals, our sense of who we are shines through most in the mythologies and fables of what we tell ourselves and what we tell our children. Here, we solicit and curate those stories, hopefully opening up a new archive of poignant experiences.
+Our sense of who we are shines through most in the mythologies and fables of what we tell ourselves and what we tell our children. Here, we solicit and curate those stories, hopefully opening up a new archive of poignant experiences.
 
 # We are self-defined and inclusive
 
