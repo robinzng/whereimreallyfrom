@@ -1,6 +1,6 @@
 ---
 title: "Family History Timeline"
-date: 2020-12-01
+date: 2020-10-10
 author: Anonymous
 image : "images/blog/family_history_timeline_20201010.jpg"
 bg_image: "images/blog/family_history_timeline_20201010.jpg"
