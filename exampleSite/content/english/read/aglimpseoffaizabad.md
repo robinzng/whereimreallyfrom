@@ -12,8 +12,9 @@ type: "post"
 ---
 
 {{< youtube SqSciurT9Kg >}}
-<p>
 
+
+<p>
 My parents immigrated to America from a small city in the state of Uttar Pradesh, India. Located on the banks of the river Ghaghra and east of the state capital Lucknow, Faizabad is a significant part of my family history.
 
 Visiting my parent's hometown was always an adventure for my brother and me. Faizabad is a small city with a close-knit community that has its own charm. Every time I go to Chowk (the central market) with my mom, she sees someone she knows even after so many years. The population is around 165,000 people, with the majority being Hindus and Muslims. 
