@@ -3,7 +3,7 @@ banner:
   enable : true
   bg_image : "images/slider-bg2.jpg"
   bg_overlay : true
-  title : <b> Stories from the Asian-American diaspora </b>
+  title : <b> Stories from the Asian American diaspora </b>
   button:
     enable : true
     label : "Start reading"
@@ -54,7 +54,7 @@ about:
 cta:
   enable : true
   title : "We'd love to hear from you."
-  content : "This is a space to preserve the Asian-American experience, in all its complexity, before it is lost."
+  content : "This is a space to preserve the Asian American experience, in all its complexity, before it is lost."
   button:
     enable : true
     label : "Share a story"
@@ -68,7 +68,7 @@ funfacts:
   funfact_item:
     # funfacts item loop
     - icon : "ion-ios-people" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Population of Asian-Americans"
+      name : "Population of Asian Americans"
       count : "22408464"
 
   testimonial_slider:
