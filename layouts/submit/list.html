@@ -1,78 +1,35 @@
 {{ define "main" }}
 
-{{ partial "page-title.html" . }}
-
-{{ $data := index site.Data site.Language.Lang }}
-
-<section class="page-wrapper">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        {{ .Content }}
-      </div>
+<article class="page type-page status-publish hentry">
+  <header class="entry-header has-text-align-center header-footer-group">
+    <div class="entry-header-inner section-inner medium">
+      <h1 class="entry-title">{{ .Title }}</h1>
+    </div>
+  </header>
+  <div class="post-inner thin">
+    <div class="entry-content">
+      {{ .Content }}
     </div>
   </div>
-</section>
-<section class="contact-form">
-  <div class="container">
-    <div class="row">
-      <script type="text/javascript">var submitted=false;</script>
-        <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
-        onload="if(submitted) {window.location.pathname='thankyou.html';}"></iframe>
-      <form method="POST" action="https://docs.google.com/forms/d/e/1FAIpQLSfzFnNfhTv-8GhCxrhJdLEws6jV3iOQJiDcLKHy--aDdUk15Q/formResponse" target="hidden_iframe" onsubmit="submitted=true;">
-        <div class="col-md-12 col-sm-12">
-          <div class="block">
-            <div class="form-group">
-              <input name="entry.1220974161" type="text" class="form-control" placeholder="Email Address*">
-            </div>
-            <div class="form-group">
-              <input name="entry.1340498882" type="text" class="form-control" placeholder="Alias">
-            </div>
-            <div class="form-group">
-              <input name="entry.1385546740" type="text" class="form-control" placeholder="Story Title">
-            </div>
-          </div>
-        </div>
-        <div class="col-md-12 col-sm-12">
-          <div class="block">
-            <div class="form-group-2">
-              <textarea name="entry.814778669" class="form-control" rows="4" placeholder="Your Story*"></textarea>
-            </div>
+</article>
 
-            <br><h4>{{ i18n "submission_check" }}</h4><br>
+<script type="text/javascript">var submitted=false;</script>
+  <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
+  onload="if(submitted) {window.location.pathname='thankyou.html';}"></iframe>
 
-            <button class="btn btn-default" type="submit">{{ i18n "submit" }}</button>
-          </div>
-        </div>
-      </form>
-    </div>
-    <div class="contact-box row">
-      <div class="col-md-12 col-sm-12">
-        <div class="block">
-          <h4>{{ i18n "address_title" }}</h4>
-          <ul class="address-block">
-<!--            <li><i class="ion-ios-location-outline"></i>{{i18n "location"}}: {{ site.Params.location }}</li>-->
-            <li><i class="ion-ios-email-outline"></i>{{i18n "email"}}: <a href="mailto:{{ site.Params.email }}">{{ site.Params.email }}</a></li>       
-            <!-- <li><i class="ion-ios-telephone-outline"></i>{{i18n "phone"}}: {{ site.Params.phone }}</li> -->
-          </ul>
-          <ul class="social-icons">
-            {{ range site.Params.social }}
-            <li><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
-            {{ end }}
-          </ul>
-        </div>
-      </div>
-      {{ if site.Params.gmap.enable }}
-      <div class="col-md-6 col-sm-12">
-        <div class="block">
-          <div class="google-map">
-            <div class="map" id="map_canvas" data-latitude="{{ site.Params.gmap.map_latitude }}" data-longitude="{{ site.Params.gmap.map_longitude }}" data-marker="{{ site.Params.gmap.map_marker | relURL }}" data-marker-name="{{ site.Title }}"></div>
-          </div>
-        </div>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</section>
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSfzFnNfhTv-8GhCxrhJdLEws6jV3iOQJiDcLKHy--aDdUk15Q/formResponse" method="post" style="margin:100px" target="hidden_iframe" onsubmit="submitted=true;">
+  <input type="email" placeholder="Email Address*" name="entry.732395290" required><br>
+
+  <input type="text" placeholder="Name" name="entry.1340498882"><br>
+
+  <input type="text" placeholder="Title" name="entry.1385546740"><br>
+
+  <textarea rows="5" placeholder="Your story*" name="entry.814778669" required></textarea><br>
+
+  <br>By submitting my story, I agree to the community guidelines.<br><br>
+ 
+  <button type="submit" style="align-content:center">Submit</button>
+</form>
 
 {{ end }}
+

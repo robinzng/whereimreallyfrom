@@ -1,119 +1,100 @@
-baseURL = "https://www.whereimreallyfrom.com"
-disableLanguages = []
-disqusShortname = ""
-paginate = "4"
-summaryLength = "30"
-theme = "airspace-hugo"
+######################## default configuration ####################
+baseURL = "https://jolly-ardinghelli-14ae9a.netlify.app/"
 title = "Where I'm Really From"
-[Languages.en]
-contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
-languageCode = "en-us"
+theme = "twentytwenty"
 languageName = "En"
-weight = 1
-[[Languages.en.menu.footer]]
-URL = "read"
-name = "Read"
-weight = 1
-[[Languages.en.menu.footer]]
-URL = "submit"
-name = "Submit"
-weight = 2
-[[Languages.en.menu.footer]]
-URL = "resources"
-name = "Resources"
-weight = 3
-[[Languages.en.menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
-[[Languages.en.menu.main]]
-URL = "read"
-name = "Read"
-weight = 2
-[[Languages.en.menu.main]]
-hasChildren = true
-URL = "submit"
-name = "Submit"
-weight = 3
-[[Languages.en.menu.main]]
-URL = "guidelines"
-name = "Guidelines"
-parent = "Submit"
-[[Languages.en.menu.main]]
-URL = "submit"
-name = "Submit a Story"
-parent = "Submit"
-[[Languages.en.menu.main]]
-hasChildren = true
-URL = "learn"
-name = "Learn"
-weight = 4
-[[Languages.en.menu.main]]
-URL = "about"
-name = "About Us"
-parent = "Learn"
-[[Languages.en.menu.main]]
-URL = "resources"
-name = "Resources"
-parent = "Learn"
+languageCode = "en-us"
+# post pagination
+paginate = "6"
+# post excerpt
+summaryLength = "10"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+# disable language
+disableLanguages = [] # desable language from here
+# google analytics
+googleAnalytics = "" # example : UA-123-45
 
-[markup.goldmark.renderer]
-unsafe = false
+
+
+############################## Output ###############################
 [outputs]
-home = ["HTML", "RSS"]
+home = ["HTML", "RSS", "JSON"]
+
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+author = "author"
+
+############################## navigation ###############################
+
+# main menu
+[[menu.main]]
+name = "Home"
+URL = "/"
+weight = 1
+
+[[menu.main]]
+name = "Read"
+URL = "read"
+weight = 2
+
+[[menu.main]]
+name = "Submit"
+URL = "submit"
+weight = 3
+
+[[menu.main]]
+name = "Resources"
+URL = "resources"
+weight = 4
+
+[[menu.main]]
+name = "About Us"
+URL = "about"
+weight = 5
+
+# only desktop menu
+[[menu.desktop]]
+name = "Submit"
+URL = "submit"
+weight = 1
+
+
+#################### default parameters ################################
 [params]
-author = "Robin Zeng"
-favicon = "favicon.png"
-contact_form_action = "#"
-description = "An Archive of Asian-American Stories"
-email = "wirfeditors@email.com" 
-google_analitycs_id = ""
-location = "USA"
-logo = "images/logo.png"
-mobile = "0123456789"
-multi_author = false
-[params.gmap]
-enable = false
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
-map_marker = "images/marker.png"
-[params.nav_button]
+# Meta data
+description = "This is meta description"
+author = "Themefisher"
+favicon = "/images/favicon.png"
+
+# cookies
+[params.cookies]
 enable = true
-label = "Get A Quote"
-link = "submit"
-[[params.plugins.css]]
-link = "plugins/bootstrap/bootstrap.min.css"
-[[params.plugins.css]]
-link = "plugins/Ionicons/css/ionicons.min.css"
-[[params.plugins.css]]
-link = "plugins/magnific-popup/magnific-popup.css"
-[[params.plugins.css]]
-link = "plugins/slick/slick.css"
-[[params.plugins.js]]
-link = "plugins/jQuery/jquery.min.js"
-[[params.plugins.js]]
-link = "plugins/bootstrap/bootstrap.min.js"
-[[params.plugins.js]]
-link = "plugins/slick/slick.min.js"
-[[params.plugins.js]]
-link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
-[[params.plugins.js]]
-link = "plugins/shuffle/shuffle.min.js"
-[[params.plugins.js]]
-link = "plugins/google-map/gmap.js"
-[params.preloader]
+expire_days = 2
+
+# banner
+[params.banner]
+heading = "Stories from the Asian-American Diaspora"
+
+# call to action
+[params.call_to_action]
 enable = true
-preloader = ""
-[params.widgets]
-sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
-[[params.social]]
-icon = "ion-social-twitter-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-facebook-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-instagram-outline"
-link = "#"
+title = "We'd love to hear your perspective"
+content = "Help us preserve the Asian-American experience, in all its complexity, before it is lost."
+button_label = "Share your story now"
+button_url = "submit"
+
+# read
+[params.read]
+heading = "Check out some of our recent submissions" 
+
+############################# social site ########################
+[params.social]
+facebook = "#"
+instagram = "#"
+email = "wirfeditors@gmail.com"

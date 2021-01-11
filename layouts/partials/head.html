@@ -1,27 +1,27 @@
 <head>
   <meta charset="utf-8">
   <title>{{ .Title }}</title>
-  <link rel="icon" href="/images/favicon.png">
-
+  <link rel="icon" type="image/png" href="/images/favicon.png">
 
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
-  {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
-  {{ with site.Params.favicon }}<link rel="icon" type="image/png" href="/favicon.png"/>
-  {{ end }}
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+  {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
   {{ hugo.Generator }}
-
-  {{ "<!-- plugins -->" | safeHTML }}
-  {{ range site.Params.plugins.css }}
-  <link rel="stylesheet" href="{{ .link | absURL }}">
-  {{ end }}
-
-  {{ "<!-- Main Stylesheet -->" | safeHTML }}
-  {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
-  <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
-
   
 
+  {{ "<!-- Main Stylesheet -->" | safeHTML }}
+  {{ $wpLibrary := resources.Get "css/wp-library.css" | minify }}
+  <link rel="stylesheet" href="{{ $wpLibrary.Permalink }}" media="screen">
+
+  {{ $style := resources.Get "css/style.css" | minify }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}" media="screen">
+
+
+  <script>
+		document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+  </script>
+
+  <!-- google analytics -->
+  {{ template "_internal/google_analytics.html" . }}
 </head>

@@ -5,84 +5,30 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Blog Post
+  label: Read
 - type: directory
-  path: exampleSite/content/english/blog
-  label: Post (en)
+  path: exampleSite/content/read
+  label: Post
   create: documents
   match: "**/*"
   templates:
   - post
 - type: heading
-  label: Author
-- type: directory
-  path: exampleSite/content/english/author
-  label: Author (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - author
-- type: heading
-  label: Project
-- type: directory
-  path: exampleSite/content/english/project
-  label: Project (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - project
-- type: heading
   label: Others Pages
 - type: directory
-  path: exampleSite/content/english/about
-  label: About (en)
+  path: exampleSite/content/about
+  label: About
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/english/service
-  label: Service (en)
+  path: exampleSite/content/contact
+  label: Contact
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/english/pricing
-  label: Pricing (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/english/faq
-  label: FAQ (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/english/contact
-  label: Contact (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/english/pages
-  label: Created Pages (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - new-page
-- type: directory
-  path: exampleSite/content/english
-  label: All Pages (en)
+  path: exampleSite/content
+  label: All Pages
   create: all
-  match: "**/*"
-  templates:
-  - new-page
-- type: heading
-  label: Data
-- type: directory
-  path: exampleSite/data/en
-  label: Data (en)
-  create: all
-  match: "**/*"
-- type: directory
-  path: exampleSite/i18n
-  label: i18n
-  create: documents
   match: "**/*"
 - type: heading
   label: Configuration
@@ -92,7 +38,7 @@ sections:
   create: all
   match: "*.toml"
   new_doc_ext: toml
-upload_dir: images
+upload_dir: exampleSite/static/images
 public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
@@ -105,5 +51,6 @@ build:
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
   working_dir: "/srv"
-  instant_preview_command: hugo server
-version: 0.58.2
+  instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
+    -d public
+version: 0.69.0
