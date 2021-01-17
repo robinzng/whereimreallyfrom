@@ -9,4 +9,4 @@ bg_image: "images/slider-bg2.jpg"
 
 [Our reading club's bookshelf and notes](https://drive.google.com/drive/folders/1uf-ARebqgd4kQtMB84lCgKM3ry_-ThqS?usp=sharing)
 
-[Check these out!](https://asiatrend.org)
+[Check these out!]
