@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://jolly-ardinghelli-14ae9a.netlify.app/"
+baseURL = "https://whereimreallyfrom.com/"
 title = "Where I'm Really From"
 theme = "twentytwenty"
 languageName = "En"
@@ -95,6 +95,4 @@ heading = "Check out some of our recent submissions"
 
 ############################# social site ########################
 [params.social]
-facebook = "#"
-instagram = "#"
 email = "wirfeditors@gmail.com"
