@@ -7,6 +7,6 @@ bg_image: "images/slider-bg2.jpg"
 
 [For submissions](https://drive.google.com/drive/folders/1_zsm2GjuAIxTC6U1I2bYiNB3BIS_7TZj?usp=sharing)
 
-[Our reading club's bookshelf and notes](https://drive.google.com/drive/folders/1uf-ARebqgd4kQtMB84lCgKM3ry_-ThqS?usp=sharing)
+[Our reading circle's bookshelf and notes](https://drive.google.com/drive/folders/1uf-ARebqgd4kQtMB84lCgKM3ry_-ThqS?usp=sharing)
 
-[Check these out!](https://asiatrend.org)
+Check these out!
