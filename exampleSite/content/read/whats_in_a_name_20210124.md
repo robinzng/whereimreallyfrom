@@ -1,12 +1,12 @@
 ---
 title: "What's in a name? "
 date: 2021-01-24
-image : "images/aglimpseoffaizabad.jpg"
+image : "images/NameCycle_20210127"
 # author
 author : ["Chunyang Ding"]
 # categories
 categories: ["Text"]
-tags: ["History", "Name", "China", "Identity"]
+tags: ["History", "Names", "Identity", "Chinese", "Asian-American"]
 # meta description
 description: ""
 # save as draft
