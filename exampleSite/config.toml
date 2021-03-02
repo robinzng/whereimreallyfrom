@@ -47,20 +47,21 @@ URL = "submit"
 weight = 3
 
 [[menu.main]]
+hasChildren = true
 name = "Resources"
 URL = "resources"
 weight = 4
-hasChildren = true
 
 [[menu.main]]
+parent = "Resources"
 name = "Addressing Anti-Asian Violence"
 URL = "https://tinyurl.com/anti-asian-violence-resources"
-parent = "Resources"
+weight = 5
 
 [[menu.main]]
 name = "About Us"
 URL = "about"
-weight = 5
+weight = 6
 
 # only desktop menu
 [[menu.desktop]]
