@@ -50,6 +50,12 @@ weight = 3
 name = "Resources"
 URL = "resources"
 weight = 4
+hasChildren = true
+
+[[menu.main]]
+name = "Addressing Anti-Asian Violence"
+URL = "https://tinyurl.com/anti-asian-violence-resources"
+parent = "Resources"
 
 [[menu.main]]
 name = "About Us"
@@ -83,7 +89,7 @@ heading = "Stories from the Asian American Diaspora"
 [params.call_to_action]
 enable = true
 title = "We stand against Anti-Asian Violence."
-content = "Every story matters. If you or someone you know has been the target of an Anti-Asian attack, please report the incident. You can also check out this resource list for other ways to help."
+content = "Every story matters. If you or someone you know has been the target of an Anti-Asian attack, please report the incident."
 button_label = "Report an incident"
 button_url = "https://stopaapihate.org/"
 
