@@ -15,8 +15,6 @@ disableLanguages = [] # desable language from here
 # google analytics
 googleAnalytics = "" # example : UA-123-45
 
-
-
 ############################## Output ###############################
 [outputs]
 home = ["HTML", "RSS", "JSON"]
@@ -68,8 +66,8 @@ weight = 1
 #################### default parameters ################################
 [params]
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Online Archive of Asian-American Narratives"
+author = "Robin Zeng"
 favicon = "/images/favicon.png"
 
 # cookies
@@ -81,13 +79,21 @@ expire_days = 2
 [params.banner]
 heading = "Stories from the Asian American Diaspora"
 
-# call to action
+# updated call to action 2021-03-02
 [params.call_to_action]
 enable = true
-title = "We'd love to hear your perspective"
-content = "Help us preserve the Asian American experience, in all its complexity, before it is lost."
-button_label = "Share your story now"
-button_url = "submit"
+title = "We stand against Anti-Asian Violence."
+content = "Every story matters. If you or someone you know has been the target of an Anti-Asian attack, please report the incident. You can also check out this resource list for other ways to help."
+button_label = "Report an incident"
+button_url = "https://stopaapihate.org/"
+
+# original call to action
+# [params.call_to_action]
+# enable = true
+# title = "We'd love to hear your perspective"
+# content = "Help us preserve the Asian American experience, in all its complexity, before it is lost."
+# button_label = "Share your story now"
+# button_url = "submit"
 
 # read
 [params.read]
