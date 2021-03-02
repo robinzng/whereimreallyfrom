@@ -47,14 +47,12 @@ URL = "submit"
 weight = 3
 
 [[menu.main]]
-hasChildren = true
 name = "Resources"
 URL = "resources"
 weight = 4
 
 [[menu.main]]
-parent = "Resources"
-name = "Addressing Anti-Asian Violence"
+name = "Anti-Asian Violence Resources"
 URL = "https://tinyurl.com/anti-asian-violence-resources"
 weight = 5
 
