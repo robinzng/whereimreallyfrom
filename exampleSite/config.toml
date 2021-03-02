@@ -52,7 +52,7 @@ URL = "resources"
 weight = 4
 
 [[menu.main]]
-name = "Anti-Asian Violence Resources"
+name = "Addressing Anti-Asian Violence"
 URL = "https://tinyurl.com/anti-asian-violence-resources"
 weight = 5
 
@@ -66,6 +66,11 @@ weight = 6
 name = "Submit"
 URL = "submit"
 weight = 1
+
+[[menu.desktop]]
+name = "Addressing Anti-Asian Violence"
+URL = "https://tinyurl.com/anti-asian-violence-resources"
+weight = 2
 
 
 #################### default parameters ################################
