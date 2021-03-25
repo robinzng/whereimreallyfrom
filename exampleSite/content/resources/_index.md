@@ -5,7 +5,7 @@ draft: false
 bg_image: "images/slider-bg2.jpg"
 ---
 
-## Take action
+<!-- ## Take action
 
 <a class="wp-block-button__link" href="https://tinyurl.com/anti-asian-violence-resources">Anti-Asian violence resources</a>
 
@@ -27,3 +27,4 @@ bg_image: "images/slider-bg2.jpg"
 
 
 
+ -->
