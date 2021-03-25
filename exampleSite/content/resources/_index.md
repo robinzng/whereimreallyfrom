@@ -5,22 +5,25 @@ draft: false
 bg_image: "images/slider-bg2.jpg"
 ---
 
-<style>
+<!-- <style>
 div.textbox {
-    background-color: pink;
+    background-color: #7F0B0B;
 }
 
-</style>
+</style> -->
 
 ## Take action
-<div class ="textbox">
-[Anti-Asian violence resources](https://tinyurl.com/anti-asian-violence-resources)
+<!-- <div class ="textbox"> -->
+
+<a class="wp-block-button__link" href="https://tinyurl.com/anti-asian-violence-resources">Anti-Asian violence resources</a>
+
+[Anti-Asian violence resources]()
 
 [Report an incident](https://stopaapihate.org/)
 
 [Healthcare-focused anti-racism resources](https://docs.google.com/spreadsheets/u/1/d/1uiuO3InNLt5VvnKbUPhk3pZ9x6fPaCTghWS-cTHvzFM/htmlview?fbclid=IwAR1AzZaWVf2fB1lgCQDyeFUj89r3EhoiCRM5bSnciwzgJ1-wX-9k3xpK4LQ#)
 
-</div>
+<!-- </div> -->
 
 
 ## Educate yourselves and others 
