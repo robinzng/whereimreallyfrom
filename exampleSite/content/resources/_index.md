@@ -6,11 +6,19 @@ bg_image: "images/slider-bg2.jpg"
 ---
 
 <style>
-    a.wp-block-button__link {
-        color: white;
-    }
+<div class="wp-block-group alignwide has-background" style="background-color:#ffffff">
+    <div class="wp-block-group__inner-container">
+      <div class="wp-block-group">
+        <div class="wp-block-group__inner-container">
+          <h2 class="has-text-align-center">{{ .title | markdownify }}</h2>
+          <p class="has-text-align-center">{{ .content | markdownify }}</p>
+          <div class="wp-block-button aligncenter"><a class="wp-block-button__link"
+              href="{{ .button_url | absURL }}">{{ .button_label }}</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
 </style>
-
 
 ## Take action
 
