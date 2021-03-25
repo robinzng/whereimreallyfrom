@@ -5,10 +5,22 @@ draft: false
 bg_image: "images/slider-bg2.jpg"
 ---
 
+<style>
+div.textbox {
+    background-color: pink;
+}
+
+</style>
+
 ## Take action
+<div class ="textbox">
 [Anti-Asian violence resources](https://tinyurl.com/anti-asian-violence-resources)
+
 [Report an incident](https://stopaapihate.org/)
+
 [Healthcare-focused anti-racism resources](https://docs.google.com/spreadsheets/u/1/d/1uiuO3InNLt5VvnKbUPhk3pZ9x6fPaCTghWS-cTHvzFM/htmlview?fbclid=IwAR1AzZaWVf2fB1lgCQDyeFUj89r3EhoiCRM5bSnciwzgJ1-wX-9k3xpK4LQ#)
+
+</div>
 
 
 ## Educate yourselves and others 
