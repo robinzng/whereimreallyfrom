@@ -7,7 +7,7 @@ bg_image: "images/slider-bg2.jpg"
 
 <style>
     a:hover {
-    text-decoration-line: underline;
+    text-decoration: underline;
     }
 </style>
 
