@@ -5,15 +5,9 @@ draft: false
 bg_image: "images/slider-bg2.jpg"
 ---
 
-<style>
-    a:hover {
-    background-color: #5C0000;
-    }
-</style>
-
 ## Take action
 
-<a class="wp-block-button__link" style = "color:white" href="https://tinyurl.com/anti-asian-violence-resources/" target="_blank">National Anti-Asian violence resources</a>
+<a class="wp-block-button__link" style = "color:white" href="https://tinyurl.com/anti-asian-violence-resources/" target="_blank" onmouseover="text-decoration=underline">National Anti-Asian violence resources</a>
 
 
 <a class="wp-block-button__link" style = "color:white" href="https://stopaapihate.org/" target="_blank">Report a hate incident</a>
