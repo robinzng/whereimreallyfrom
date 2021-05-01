@@ -52,6 +52,11 @@ URL = "resources"
 weight = 4
 
 [[menu.main]]
+name = "Podcast"
+URL = "podcast"
+weight = 5
+
+[[menu.main]]
 name = "About Us"
 URL = "about"
 weight = 6
