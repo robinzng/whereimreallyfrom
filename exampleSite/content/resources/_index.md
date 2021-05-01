@@ -7,7 +7,7 @@ bg_image: "images/slider-bg2.jpg"
 
 ## Take action
 
-<a class="wp-block-button__link" style = "color:white" href="https://tinyurl.com/anti-asian-violence-resources/" target="_blank" onmouseover="background-color=yellow">National Anti-Asian violence resources</a>
+<a class="wp-block-button__link" style = "color:white" href="https://tinyurl.com/anti-asian-violence-resources/" target="_blank">National Anti-Asian violence resources</a>
 
 
 <a class="wp-block-button__link" style = "color:white" href="https://stopaapihate.org/" target="_blank">Report a hate incident</a>
