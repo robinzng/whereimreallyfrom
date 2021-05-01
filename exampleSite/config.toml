@@ -112,3 +112,6 @@ heading = "Check out some of our recent submissions"
 ############################# social site ########################
 [params.social]
 email = "wirfeditors@gmail.com"
+
+[params.instagram]
+instagram = "https://www.instagram.com/aab_pod/"
