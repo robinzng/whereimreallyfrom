@@ -3,7 +3,7 @@ title: "A Glimpse of Faizabad, India"
 date: 2020-11-28
 image : "images/aglimpseoffaizabad.jpg"
 # author
-author : ["Adeeba A."]
+author : ["Adeeba"]
 # categories
 categories: ["Video","Text"]
 tags: ["History", "Family","Identity"]
