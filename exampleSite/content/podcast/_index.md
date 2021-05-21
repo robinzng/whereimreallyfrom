@@ -10,10 +10,9 @@ The stories of Asian America are stories of America. Join us on _Asian American 
 
 Our first episode, on Chinese American particle physicist Chien-Shiung Wu, is out now. Our second episode, on Filipino American labor organizer Larry Itliong, releases June 2021. 
 
-Follow us on [Instagram](https://instagram.com/aab_pod) for upcoming episode details.
-
 <iframe src="https://open.spotify.com/embed/episode/6p38L1pAnxipiGPuhYtOHg" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+Follow us on [Instagram](https://instagram.com/aab_pod) for upcoming episode details.
 Closed Captioning available on [on YouTube](https://www.youtube.com/playlist?list=PLhk-Ayhk2bpdfgVhJZPqYica94vK9ilbk)
 
 <a target="_blank" href="https://open.spotify.com/show/2VnJjutE1eQ2aTnccDaAPy?si=0BcFmlEzTmKt_D8HriGZSQ" style="display: inline-block; background-color: #000000; background-image: url(https://www.buzzsprout.com/images/badges/listen-on-embed.svg); background-repeat: no-repeat; border: 1px solid #000000; border-radius: 5px; margin: 0 5px 5px 0; text-indent: -9000px; background-position: 10px -53px; height: 40px; width: 106px;">Listen on Spotify</a>
