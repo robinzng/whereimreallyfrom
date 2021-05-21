@@ -19,4 +19,4 @@ Our sense of who we are shines through most in the mythologies and fables of wha
 Too often, the Asian American story is forced to focus on specific qualities of language, food, and other pre-concieved notions of race. In this space, we break the mold. Our stories are told how we want to tell them, in our own language, in our own flair. Even as our stories are unique, our experiences can be common.
 
 ### The founding members: 
-This website was made possible through the hard work of: <br> [Robin Zeng](https://www.robinzen.com), [Adeeba Ahmad](https://www.adeeba-ahmad.myportfolio.com), [Lisa Wick](https://www.linkedin.com/in/lisa-wick-412186107), Alice Hsu, [Chunyang Ding](https://www.chunyangding.com/), Soni Khanna, Gloria Li, and Amanda Black.
+This website was made possible through the hard work of: <br> [Robin Zeng](https://www.robinzen.com), [Adeeba Ahmad](https://adeeba-ahmad.myportfolio.com), [Lisa Wick](https://www.linkedin.com/in/lisa-wick-412186107), Alice Hsu, [Chunyang Ding](https://www.chunyangding.com/), Soni Khanna, Gloria Li, and Amanda Black.
