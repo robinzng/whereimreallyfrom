@@ -6,6 +6,26 @@ draft: false
 bg_image: "images/slider-bg2.jpg"
 ---
 
-The stories of Asian America are stories of America. Join us on _Asian American Brainstorm_ as we dive into the lives of remarkable Asian Americans in history. Each episode explores how an Asian American's contributions shaped (and were shaped by) the social and political context in which they lived. 
+The stories of Asian America are stories of America. Join us on _Asian American Brainstorm_ as we dive into the lives of remarkable Asian Americans in history. Each episode explores how an Asian American's contributions shaped (and were shaped by) the social and political context in which they lived.
 
+Our first episode, on Chinese American particle physicist Chien-Shiung Wu, is out now. Our second episode, on Filipino American labor organizer Larry Itliong, releases June 2021. Follow us on Instagram for upcoming episode details: @aab_pod
+<br/>
 <iframe src="https://open.spotify.com/embed/episode/6p38L1pAnxipiGPuhYtOHg" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<br/>
+Subscribe to our podcast!
+
+<a target="_blank" href="https://open.spotify.com/show/2VnJjutE1eQ2aTnccDaAPy?si=0BcFmlEzTmKt_D8HriGZSQ" style="display: inline-block; background-color: #000000; background-image: url(https://www.buzzsprout.com/images/badges/listen-on-embed.svg); background-repeat: no-repeat; border: 1px solid #000000; border-radius: 5px; margin: 0 5px 5px 0; text-indent: -9000px; background-position: 10px -53px; height: 40px; width: 106px;">Listen on Spotify</a>
+
+
+<a target="_blank" href="https://podcasts.apple.com/us/podcast/asian-american-brainstorm/id1564628161" style="display: inline-block; background-color: #000000; background-image: url(https://www.buzzsprout.com/images/badges/listen-on-embed.svg); background-repeat: no-repeat; border: 1px solid #000000; border-radius: 5px; margin: 0 5px 5px 0; text-indent: -9000px; background-position: 10px 7px; height: 40px; width: 165px;">Listen on Apple Podcasts</a>
+
+
+<a target="_blank" href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjM4MDE1Nzc1OC9zb3VuZHMucnNz" style="display: inline-block; background-color: #000000; background-image: url(https://www.buzzsprout.com/images/badges/listen-on-embed.svg); background-repeat: no-repeat; border: 1px solid #000000; border-radius: 5px; margin: 0 5px 5px 0; text-indent: -9000px; background-position: 10px -113px; height: 40px; width: 165px;">Listen on Google Podcasts</a>
+
+
+<a target="_blank" href="https://music.amazon.com/podcasts/5b1500ac-2d0d-4a10-9b97-919584c1af9a" style="display: inline-block; background-color: #000000; background-image: url(https://www.buzzsprout.com/images/badges/listen-on-embed.svg); background-repeat: no-repeat; border: 1px solid #000000; border-radius: 5px; margin: 0 5px 5px 0; text-indent: -9000px; background-position: 10px -293px; height: 40px; width: 162px;">Listen on Amazon Music</a>
+
+<br/>
+Closed Captioning available on YouTube: 
+https://www.youtube.com/playlist?list=PLhk-Ayhk2bpdfgVhJZPqYica94vK9ilbk
+<br/>
