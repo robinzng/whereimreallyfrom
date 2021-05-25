@@ -16,10 +16,6 @@ bg_image: "images/slider-bg2.jpg"
 <a class="wp-block-button__link" style = "color:white" href="https://docs.google.com/spreadsheets/u/1/d/1uiuO3InNLt5VvnKbUPhk3pZ9x6fPaCTghWS-cTHvzFM/htmlview?fbclid=IwAR1AzZaWVf2fB1lgCQDyeFUj89r3EhoiCRM5bSnciwzgJ1-wX-9k3xpK4LQ#/" target="_blank">Healthcare-focused anti-racism resources</a>
 
 
-## Educate yourselves and others 
-
-<img src="/images/laolao_laugh.gif" width="600" class="center">Our reading circle's bookshelf</a>
-
 
 ## Prep your submission
 
@@ -27,3 +23,7 @@ bg_image: "images/slider-bg2.jpg"
 
 
 
+## Educate yourselves and others 
+
+
+<img src="/images/Bookshelf.png" width="500" class="center" />
