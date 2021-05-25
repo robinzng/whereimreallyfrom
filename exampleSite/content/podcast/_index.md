@@ -6,6 +6,8 @@ draft: false
 bg_image: "images/slider-bg2.jpg"
 ---
 
+<img src="/images/Final_Logo.png" width="500" class="center" />
+
 Join us on _Asian American Brainstorm_ as we dive into the lesser-known histories of Asian America. Each episode explores how an Asian American's contributions shaped (and were shaped by) the social and political context in which they lived. 
 
 Our first episode, on Chinese American particle physicist Chien-Shiung Wu, is out now. Our second episode, on Filipino American labor organizer Larry Itliong, releases June 2021. 
