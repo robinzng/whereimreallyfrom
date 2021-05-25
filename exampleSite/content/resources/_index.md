@@ -18,7 +18,7 @@ bg_image: "images/slider-bg2.jpg"
 
 ## Educate yourselves and others 
 
-<a class="wp-block-button__link" style = "color:white" href="https://drive.google.com/drive/folders/1uf-ARebqgd4kQtMB84lCgKM3ry_-ThqS?usp=sharing" target="_blank">Our reading circle's bookshelf and notes</a>
+<img src="/images/laolao_laugh.gif" width="600" class="center">Our reading circle's bookshelf</a>
 
 
 ## Prep your submission
