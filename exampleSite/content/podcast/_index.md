@@ -15,7 +15,7 @@ Our first episode, on Chinese American particle physicist Chien-Shiung Wu, is ou
 
 Subscribe to our podcast!
 
-<iframe src="https://open.spotify.com/embed/episode/6p38L1pAnxipiGPuhYtOHg" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/episode/7AGbmzGPBb0CPHicsCW2po" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Follow us on [Instagram](https://instagram.com/aab_pod) for upcoming episode details: @aab_pod
 
