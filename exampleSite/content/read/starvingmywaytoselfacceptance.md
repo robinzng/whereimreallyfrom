@@ -10,7 +10,7 @@ tags: ["Identity", "Family","Mental Health"]
 # meta description
 description: "Here's to Asian American mental health and speaking up when we've been quiet for so long."
 # save as draft
-draft: true
+draft: false
 ---
 
 (www.fcksavingface.com)
