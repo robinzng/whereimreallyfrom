@@ -1,7 +1,7 @@
 ---
 title: "Starving My Way to Self-Acceptance"
 date: 2021-06-01
-image : "images/starvingmywaytoselfacceptance.jpg"
+image : "images/starvingmywaytoselfacceptance-1.jpg"
 # author
 author : ["Judy Tsuei"]
 # categories
@@ -13,7 +13,7 @@ description: "Here's to Asian American mental health and speaking up when we've 
 draft: false
 ---
 
-(www.fcksavingface.com)
+www.fcksavingface.com
 
 Trigger Warning: Eating Disorders & Suicide
 
@@ -52,3 +52,8 @@ I've always believed that "hurt people hurt people," because I've been on the re
 I didn't get here easily. I still have days where I throw up my hands in frustration. But ultimately, this entire journey has made me who I am today and frankly, I like that woman more and more with each unfolding of life.
 All of this is to say that if you need help, I hope you get it. I hope you know you're not alone. As a writer, I often say that "Life may not always be pretty, but it is indeed beautiful. You can make your story beautiful today."
 Here's to Asian American mental health and speaking up when we've been quiet for so long. 
+
+
+<img src="/images/starvingmywaytoselfacceptance-2.jpg"
+
+<img src="/images/starvingmywaytoselfacceptance-3.jpg"
