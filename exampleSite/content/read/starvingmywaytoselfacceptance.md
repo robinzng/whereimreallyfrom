@@ -54,6 +54,6 @@ All of this is to say that if you need help, I hope you get it. I hope you know 
 Here's to Asian American mental health and speaking up when we've been quiet for so long. 
 
 
-<img src="/images/starvingmywaytoselfacceptance-2.jpg"
+<img src="/images/starvingmywaytoselfacceptance-2.jpg"/>
 
-<img src="/images/starvingmywaytoselfacceptance-3.jpg"
+<img src="/images/starvingmywaytoselfacceptance-3.jpg"/>
