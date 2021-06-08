@@ -26,8 +26,8 @@ And three weeks ago, I became his first grandchild to finish college when I grad
 As a side note, my grandma gave me this congratulatory card and signed my grandpa’s name with hers on the bottom and it made me cry. I would call my grandpa “Papa Ely” because he said it made him feel less old.
 
 
-<img src="/images/generationallove-2.jpg"/>
+<img src="/images/generationallove-4.jpg"/>
 
 <img src="/images/generationallove-3.jpg"/>
 
-<img src="/images/generationallove-4.jpg"/>
+<img src="/images/generationallove-2.jpg"/>
