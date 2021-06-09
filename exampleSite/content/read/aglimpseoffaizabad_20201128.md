@@ -24,5 +24,5 @@ Gulab Bari translates to "garden of roses" and is home to the tomb of Nawab Shuj
 
 Well connected by rail and road, locals can easily travel by train to Lucknow, Delhi, and other cities in Northern India. The Faizabad airport is currently a government airstrip, and there are plans to develop it into a domestic airport. Both the small and big changes are what I look forward to on my next visit.
 
-In America, we didn't grew up with cousins/aunts/uncles around us. It was always just us and our parents, waiting for the next opportunity to see the rest of our family. I am grateful for the chance to learn my roots and see the culture that is part of my identity.
+In America, we didn't grow up with cousins/aunts/uncles around us. It was always just us and our parents, waiting for the next opportunity to see the rest of our family. I am grateful for the chances I got to see the culture that is part of my identity.
 </p>
