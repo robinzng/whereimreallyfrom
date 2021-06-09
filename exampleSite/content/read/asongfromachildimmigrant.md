@@ -1,6 +1,6 @@
 ---
 title: "A Song From A Child Immigrant"
-date: "September 2020"
+date: 2020-09-13
 author: ["Hong Tai Wei"]
 image : "images/asongfromachildimmigrant.png"
 categories: ["Video","Text"] 
