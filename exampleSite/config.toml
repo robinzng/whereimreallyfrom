@@ -89,14 +89,6 @@ expire_days = 2
 [params.banner]
 heading = "Stories from the Asian American Diaspora"
 
-# updated call to action 2021-03-02
-[params.call_to_action]
-enable = true
-title = "We stand against Anti-Asian Violence."
-content = "Every story matters. See our Resources page to learn how you can help fight Anti-Asian Violence."
-button_label = "Resources"
-button_url = "/resources"
-
 # original call to action
 # [params.call_to_action]
 # enable = true
