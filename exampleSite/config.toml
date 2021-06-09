@@ -68,7 +68,7 @@ URL = "submit"
 weight = 1
 
 [[menu.desktop]]
-name = "Check out our Podcast!"
+name = "Check out our podcast!"
 URL = "podcast"
 weight = 2
 
@@ -76,7 +76,7 @@ weight = 2
 #################### default parameters ################################
 [params]
 # Meta data
-description = "Online Archive of Asian-American Narratives"
+description = "Online Archive of Asian American Narratives"
 author = "Robin Zeng"
 favicon = "/images/favicon.png"
 
