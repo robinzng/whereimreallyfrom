@@ -1,6 +1,6 @@
 ---
 title: "A Song From A Child Immigrant"
-date: 2021-02-20
+date: 2020-08-13
 author: ["Hong Tai Wei"]
 image : "images/asongfromachildimmigrant.png"
 categories: ["Video","Text"] 
@@ -17,9 +17,10 @@ The second part of the song deals with racism that I've internalized over the ye
 
 The last part talks about my inaction towards racism, allowing it to perpetuate further. I find that most Asians I know, including myself, will choose to avoid this problem rather than to face it head on. Sharing this song is probably the first action I ever took for the latter, hoping to raise some awareness.
 
-I hope I didn't offend anyone, and I'd be interested in learning different perspectives on this topic. If you liked this song, you can find more under the artist name 'Waznop' on most music platforms. 🙂
+{{< youtube 6aqG2lgV9BM >}}
 
-For reference:
+I hope I didn't offend anyone, and I'd be interested in learning different perspectives on this topic. If you liked this song, you can find more under the artist name 'Waznop' on most music platforms. 🙂 For reference:
+
 Beyblade: a children's toy
 Three and a half: basically a one bedroom apartment (Montreal)
 Welcome class: a class for non-French-speaking children to learn French (Quebec)
