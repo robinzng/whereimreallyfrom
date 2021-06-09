@@ -1,6 +1,6 @@
 ---
 title: "A Glimpse of Faizabad, India"
-date: "December 1, 2020"
+date: 01-12-2021
 image : "images/aglimpseoffaizabad.jpg"
 # author
 author : ["Adeeba"]
