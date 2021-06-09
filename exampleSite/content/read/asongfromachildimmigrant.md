@@ -1,6 +1,6 @@
 ---
 title: "A Song From A Child Immigrant"
-date: 2020-08-13
+date: 2020-09-20
 author: ["Hong Tai Wei"]
 image : "images/asongfromachildimmigrant.png"
 categories: ["Video","Text"] 
@@ -19,11 +19,19 @@ The last part talks about my inaction towards racism, allowing it to perpetuate 
 
 {{< youtube 6aqG2lgV9BM >}}
 
-I hope I didn't offend anyone, and I'd be interested in learning different perspectives on this topic. If you liked this song, you can find more under the artist name 'Waznop' on most music platforms. 🙂 For reference:
+I hope I didn't offend anyone, and I'd be interested in learning different perspectives on this topic. If you liked this song, you can find more under the artist name 'Waznop' on most music platforms. 🙂 
+
+
+For reference:
 
 Beyblade: a children's toy
+
 Three and a half: basically a one bedroom apartment (Montreal)
+
 Welcome class: a class for non-French-speaking children to learn French (Quebec)
+
 Dollarama: a shop that only sells items for a dollar (or at least used to)
+
 Dratini: a Pokemon, in reference to the Pokemon TCG (Trading Card Game)
+
 Kumon: an after school learning program
