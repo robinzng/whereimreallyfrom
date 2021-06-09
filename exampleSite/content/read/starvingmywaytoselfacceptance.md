@@ -1,12 +1,12 @@
 ---
 title: "Starving My Way to Self-Acceptance"
-date: 2021-06-01
+date: 2021-05-26
 image : "images/starvingmywaytoselfacceptance-1.jpg"
 # author
 author : ["Judy Tsuei"]
 # categories
 categories: ["Image","Text"]
-tags: ["Identity", "Family","Mental Health"]
+tags: ["Mental Health", Identity", "Family"]
 # meta description
 description: "Here's to Asian American mental health and speaking up when we've been quiet for so long."
 # save as draft
