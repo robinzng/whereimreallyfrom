@@ -87,7 +87,6 @@ expire_days = 2
 
 # banner
 [params.banner]
-heading = "/images/logo.png"
 heading = "Stories from the Asian American Diaspora"
 
 # original call to action
@@ -107,5 +106,3 @@ heading = "Check out some of our recent submissions"
 email = "wirfeditors@gmail.com"
 instagram = "https://www.instagram.com/aab_pod/"
 spotify = "https://open.spotify.com/show/2VnJjutE1eQ2aTnccDaAPy"
-apple = "https://podcasts.apple.com/us/podcast/asian-american-brainstorm/id1564628161"
-youtube = "https://www.youtube.com/playlist?list=PLhk-Ayhk2bpdfgVhJZPqYica94vK9ilbk"
