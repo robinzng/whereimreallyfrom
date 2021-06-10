@@ -87,7 +87,7 @@ expire_days = 2
 
 # banner
 [params.banner]
-image = "/images/logo.png"
+heading = "/images/logo.png"
 heading = "Stories from the Asian American Diaspora"
 
 # original call to action
