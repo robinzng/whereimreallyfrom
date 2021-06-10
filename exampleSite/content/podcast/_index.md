@@ -6,7 +6,7 @@ draft: false
 bg_image: "images/slider-bg2.jpg"
 ---
 
-<img src="/images/Final_Logo.png" width="500" class="center" />
+<img src="/images/podcast_logo.png" width="400" class="center" />
 
 We are so excited to launch our new podcast!
 
