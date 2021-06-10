@@ -36,7 +36,6 @@ bg_image: "images/slider-bg2.jpg"
   - 5-10 minutes
   - 10-20 minutes
   - 20+ minutes
-  - A Whole Fucking Documentary  
 
   ##### **Genre**  
   - Writing
@@ -67,6 +66,5 @@ bg_image: "images/slider-bg2.jpg"
   - Migration
   - Family Legend  
 
-  
 
-#### **Feel free to add others!!**
+#### **Feel free to add others!**
