@@ -1,11 +1,11 @@
 ---
-title: "Story"
+title: "Story Name"
 date: 2021-05-23
 author: ["Chi"]
 categories: ["Text"] 
 tags: ["Identity","Mental Health", "Adoption"]
 description: "Like many adoptees to Caucasian families, I was "caught between two worlds."
-draft: false
+draft: true
 ---
 
 My name is Samuel Chi Baker. I go by my middle name Chi. Birth name is Thang Chien Nguyen. I was born in Saigon, and adopted when I was 2. The precursor to the Baby Airlift missions. 
