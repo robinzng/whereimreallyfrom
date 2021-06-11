@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Us"
 # meta description
 description: ""
 # save as draft
