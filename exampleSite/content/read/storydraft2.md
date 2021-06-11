@@ -1,7 +1,6 @@
 ---
 title: "Story Name"
 date: 2021-06-10
-image : "images/.jpg"
 # author
 author : ["Sean Yeoh Shun Ming"]
 # categories
