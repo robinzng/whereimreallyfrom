@@ -30,7 +30,7 @@ The idea of becoming a sex therapist spoke to me because I felt it was the best 
 
 As an individual who mainly feels emotions of sadness or happiness, the foreign sensation of anger consumed me. How many other diverse women are kept from being in control of their bodies simply because the subject was too ‘taboo’ to talk about? How many other women can’t look at themselves because they feel used or anxious toward victim blaming? Why do women have to choose between their own reputation and mental health. How many other situations were avoidable just by allowing them a safe space to talk? 
 
-Cultural women are highly fetishized on a regular basis. The idea that they are sexual objects are normalized; but the control and independency of their own bodies are not. Women of asian descent, in particular, are taught to remain submissive and understanding to the opposite sex, which can easily lead to them feeling manipulated. At the same time, they were never taught to say no or able to talk about their feelings…
+Cultural women are highly fetishized on a regular basis. The idea that they are sexual objects are normalized; but the control and independency of their own bodies are not. Women of Asian descent, in particular, are taught to remain submissive and understanding to the opposite sex, which can easily lead to them feeling manipulated. At the same time, they were never taught to say no or be able to talk about their feelings...
 
 But I can do that..
 
@@ -41,3 +41,9 @@ Though the epiphany was nice to have, the decision to become a sex therapist was
 I consistently questioned my decision. Is this what you really want? Everytime I asked, I thought about the countless victims who continue to repress certain memories or certain moments. The only way they know how to survive is by repressing parts of their life. I think about the 18 year-old-me who felt that I had to lie about my virginity. Was it worth it? Was talking about it really worth it?
 
 Time passed. I now have my Bachelors of Science in Psychology (4-years) , a Master’s of Science in Marriage and Family Therapy (3 years), and am continuing to pursue a Doctorate of Philosphy in Human Sexuality- Sex therapy (starting this upcoming year). The days of facing those surprised facial expressions are met with my confident tone. My family is continuing to try and accept that the Doctor I am choosing to be, is not quite what they expected. I may not have achieved a multitude of expectations they put out for me, but I feel successful. With the help of my chosen friends and sweet supportive boyfriend, I remain resilient. As days pass, I continue to keep encouraging friends, strangers, and even my family to talk about it, despite the possible pain.
+
+<img src="/images/wedonottalkaboutthat-2.jpg"/>
+
+<img src="/images/wedonottalkaboutthat-3.jpg"/>
+
+<img src="/images/wedonottalkaboutthat-4.jpg"/>
