@@ -8,7 +8,7 @@ draft: false
 
 ### We are a past and a future
 
-This project was born out of the Black Lives Matter protests of 2020. During that summer, we realized that the first step to being anti-racist is to be educated on our Asian American history. We formed a reading circle to discuss current events and books by Asian American authors. Together, we learned more about the variety of Asian American experiences one can have. The experience of learning more about the ways in which our experiences overlapped, and more importantly, where they differed, inspired us to create an online archive dedicated to preserving such stories. We wanted people like us to share their version of the Asian American experience, in our own words and not just what is shown in the media.
+This project was born out of the Black Lives Matter protests of 2020. During that summer, we realized that the first step to being anti-racist is to be educated on our Asian American history. We formed a reading circle to discuss current events and books by Asian American authors. Together, we learned more about the variety of Asian American experiences one can have. The experience of learning more about the ways in which our experiences overlapped, and more importantly, where they differed, inspired us to create an online archive dedicated to preserving such stories.
 
 ### We are a nation of storytellers
 
