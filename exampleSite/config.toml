@@ -94,7 +94,7 @@ heading = "Stories from the Asian American Diaspora"
 enable = true
 title = "We'd love to hear your perspective"
 content = "We're collecting stories from Asian America - when, why, and how we came to be where we are today. We hope that our stories can help Asian Americans everywhere better understand what ties us together."
-button_label = "Share your story now"
+button_label = "Share your story"
 button_url = "submit"
 
 # read
