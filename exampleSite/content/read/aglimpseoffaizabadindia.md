@@ -8,7 +8,7 @@ author : ["Adeeba"]
 categories: ["Video","Text"]
 tags: ["History", "Family","Identity"]
 # meta description
-description: ""
+description: "My parents immigrated to America from a small city in the state of Uttar Pradesh, India."
 # save as draft
 draft: false
 ---
