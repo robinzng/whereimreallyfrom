@@ -23,5 +23,4 @@ I began my journey with Disney in 2017, and I have had the privilege of working 
 
 The picture on the left was taken back in 2017 when I was first hired to work at Disney, and the picture on the right is present day. This quote remains true today as it did 4 years ago when I first used it:
 
-"If you keep on believing, the dreams that you wish will come true ✨" 
-- Cinderella
+"If you keep on believing, the dreams that you wish will come true ✨" -Cinderella
