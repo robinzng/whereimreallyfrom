@@ -6,7 +6,7 @@ image : "images/starvingmywaytoselfacceptance-1.jpg"
 author : ["Judy Tsuei"]
 # categories
 categories: ["Image","Text"]
-tags: ["Mental Health", Identity", "Family"]
+tags: ["Mental Health", "Identity", "Family"]
 # meta description
 description: "Here's to Asian American mental health and speaking up when we've been quiet for so long."
 # save as draft
