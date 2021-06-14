@@ -1,16 +1,13 @@
 ---
 title: "A Glimpse of Faizabad, India"
 date: 2020-12-01
-image : "images/aglimpseoffaizabad.jpg"
-# author
-author : ["Adeeba"]
-# categories
+image: "images/aglimpseoffaizabad.jpg"
+author: ["Adeeba"]
 categories: ["Video","Text"]
 tags: ["History", "Family","Identity"]
-# meta description
 description: "My parents immigrated to America from a small city in the state of Uttar Pradesh, India."
-# save as draft
 draft: false
+type: "post"
 ---
 
 My parents immigrated to America from a small city in the state of Uttar Pradesh, India. Located on the banks of the river Ghaghra and east of the state capital Lucknow, Faizabad is a significant part of my family history.
