@@ -7,7 +7,7 @@ author : ["Samuel Chi Baker"]
 categories: ["Text"]
 tags: ["Adoption", "Culture", "Identity"]
 # meta description
-description: "Like many adoptees to Caucasian families, I was "caught between two worlds." "
+description: "Like many adoptees to Caucasian families, I was \"caught between two worlds.\" "
 # save as draft
 draft: false
 type: "post"
