@@ -13,8 +13,6 @@ description: "Here's to Asian American mental health and speaking up when we've 
 draft: false
 ---
 
-www.fcksavingface.com
-
 Trigger Warning: Eating Disorders & Suicide
 
 When I first started seeking therapy for my eating disorder, my therapist asked how many times I binged and purged, I said, "I dunno, three or four times a week?" 
@@ -82,7 +80,9 @@ I didn't get here easily. I still have days where I throw up my hands in frustra
 
 All of this is to say that if you need help, I hope you get it. I hope you know you're not alone. As a writer, I often say that "Life may not always be pretty, but it is indeed beautiful. You can make your story beautiful today."
 
-Here's to Asian American mental health and speaking up when we've been quiet for so long. 
+Here's to Asian American mental health and speaking up when we've been quiet for so long.
+
+www.fcksavingface.com
 
 
 <img src="/images/starvingmywaytoselfacceptance-2.jpg"/>
