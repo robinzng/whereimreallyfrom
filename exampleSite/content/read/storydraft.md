@@ -10,6 +10,7 @@ tags: ["Adoption", "Culture", "Identity"]
 description: "Like many adoptees to Caucasian families, I was "caught between two worlds." "
 # save as draft
 draft: false
+type: "post"
 ---
 
 My name is Samuel Chi Baker. I go by my middle name Chi. Birth name is Thang Chien Nguyen. I was born in Saigon, and adopted when I was 2. The precursor to the Baby Airlift missions. 
