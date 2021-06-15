@@ -3,7 +3,7 @@ title: "A Glimpse of Faizabad, India"
 date: 2020-12-01
 image: "images/aglimpseoffaizabad.jpg"
 author: ["Adeeba"]
-categories: ["Video","Text"]
+categories: ["Image","Text"]
 tags: ["History", "Family","Identity"]
 description: "My parents immigrated to America from a small city in the state of Uttar Pradesh, India."
 draft: false
