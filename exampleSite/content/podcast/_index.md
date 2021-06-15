@@ -21,6 +21,7 @@ Follow us on [Instagram](https://instagram.com/aab_pod) for upcoming episode det
 
 Closed Captioning available on [YouTube](https://www.youtube.com/playlist?list=PLhk-Ayhk2bpdfgVhJZPqYica94vK9ilbk)
 
+
 <a target="_blank" href="https://open.spotify.com/show/2VnJjutE1eQ2aTnccDaAPy?si=0BcFmlEzTmKt_D8HriGZSQ" style="display: inline-block; background-color: #000000; background-image: url(https://www.buzzsprout.com/images/badges/listen-on-embed.svg); background-repeat: no-repeat; border: 1px solid #000000; border-radius: 5px; margin: 0 5px 5px 0; text-indent: -9000px; background-position: 10px -53px; height: 40px; width: 106px;">Listen on Spotify</a>
 
 
@@ -31,3 +32,6 @@ Closed Captioning available on [YouTube](https://www.youtube.com/playlist?list=P
 
 
 <a target="_blank" href="https://music.amazon.com/podcasts/5b1500ac-2d0d-4a10-9b97-919584c1af9a" style="display: inline-block; background-color: #000000; background-image: url(https://www.buzzsprout.com/images/badges/listen-on-embed.svg); background-repeat: no-repeat; border: 1px solid #000000; border-radius: 5px; margin: 0 5px 5px 0; text-indent: -9000px; background-position: 10px -293px; height: 40px; width: 162px;">Listen on Amazon Music</a>
+
+
+<a target="_blank" href="https://www.pandora.com/podcast/asian-american-brainstorm/PC:76373" style="display: inline-block; background-color: #000000; background-image: url(https://www.buzzsprout.com/images/badges/listen-on-embed.svg); background-repeat: no-repeat; border: 1px solid #000000; border-radius: 5px; margin: 0 5px 5px 0; text-indent: -9000px; background-position: 10px -593px; height: 40px; width: 115px;">Listen on Pandora</a>
