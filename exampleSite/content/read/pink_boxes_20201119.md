@@ -5,7 +5,7 @@ image : "images/pink_boxes_20201119_2.jpg"
 # author
 author : ["Emily C. Taing"]
 # categories
-categories: ["Text","Picture"]
+categories: ["Image","Text"]
 tags: ["Cambodia","Food","Family","Resistance","Donuts"]
 # meta description
 description: ""
