@@ -5,7 +5,7 @@ image : "images/generationallove-1.jpg"
 # author
 author : ["James Benedito"]
 # categories
-categories: ["Text","Picture"]
+categories: ["Image","Text"]
 tags: ["Family","Immigration"]
 # meta description
 description: "My grandpa passed away back in March 2020, 15 months shy of my university graduation."
