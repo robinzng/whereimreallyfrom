@@ -1,6 +1,6 @@
 ---
 title: "A Magical Journey"
-date: 2021-06-09
+date: 2021-05-30
 author : ["Sean Yeoh Shun Ming"]
 image : "images/amagicaljourney-1.jpg"
 categories: ["Image","Text"]
