@@ -1,6 +1,6 @@
 ---
 title: "What's in a name? "
-date: 2021-01-24
+date: 2021-01-01
 image : "images/NameCycle_20210127.jpg"
 # author
 author : ["Chunyang Ding"]
