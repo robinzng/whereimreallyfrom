@@ -1,6 +1,6 @@
 ---
 title: "Pink Boxes: Unfolding into an Unlikely Symbol of Resistance"
-date: 2020-11-19
+date: 2020-11-01
 image : "images/pink_boxes_20201119_2.jpg"
 # author
 author : ["Emily C. Taing"]
