@@ -1,6 +1,6 @@
 ---
 title: "Starving My Way to Self-Acceptance"
-date: 2021-05-26
+date: 2021-05-01
 image : "images/starvingmywaytoselfacceptance-1.jpg"
 # author
 author : ["Judy Tsuei"]
