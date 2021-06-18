@@ -1,6 +1,6 @@
 ---
 title: "My Family History"
-date: 2020-10-10
+date: 2020-10-01
 author: ["Anonymous"]
 image : "images/family_history_timeline_20201010.jpg"
 bg_image: "images/family_history_timeline_20201010.jpg"
