@@ -1,15 +1,16 @@
 ---
-title: "Chi's Story"
-date: 2021-05-23
+title: "Caught Between Two Worlds"
+date: 2021-06-01
+image: "images/caughtbetweentwoworlds.png"
 # author
 author : ["Samuel Chi Baker"]
 # categories
-categories: ["Text"]
+categories: ["Text", "Image"]
 tags: ["Adoption", "Culture", "Identity"]
 # meta description
 description: "Like many adoptees to Caucasian families, I was \"caught between two worlds.\" "
 # save as draft
-draft: true
+draft: false
 type: "post"
 ---
 
@@ -24,6 +25,4 @@ My main job is a Mental Health and Addictions therapist in Portland Oregon. I we
 
 I also teach martial arts. I found learning martial arts has created a deep connection and pride in my Asian heritage. It also has helped me develop confidence and self-worth, something that I struggled with throughout childhood. As previously mentioned, Bruce Lee was my idol (still is in many ways). I have learned his art and teach it today. I also teach Kajukenbo, a Hawaiian Mixed Martial art, Kali-FIlipino Martial art, Tai Chi Chuan and Qi Gong. 
 
-Feel free to contact me concerning being an adoptee, mental health and addictions counselor, and martial arts training.
-
-Stay safe my brother and sisters.
+Feel free to contact me concerning being an adoptee, mental health and addictions counselor, and martial arts training. Stay safe my brother and sisters.
