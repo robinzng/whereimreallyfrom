@@ -14,9 +14,10 @@ draft: false
 type: "post"
 ---
 
-My name is Samuel Chi Baker. I go by my middle name Chi. Birth name is Thang Chien Nguyen. I was born in Saigon, and adopted when I was 2. The precursor to the Baby Airlift missions. 
+My name is Samuel Chi Baker. I go by my middle name Chi. Birth name is Thang Chien Nguyen. I was born in Saigon, Vietnam and adopted when I was 2. The precursor to the Baby Airlift missions. 
 
-Like many adoptees to Caucasian families, I was "caught between two worlds." I constantly was trying to fit in with white Americans, while trying to stay true to my Asian roots. I studied the Asian culture and my favorite idol was Bruce Lee (more on this below). It was a confusing and depressing childhood. I wasn't Asian enough and I wasn't white enough. 
+Like many adoptees to Caucasian families, I was "caught between two worlds." I constantly was trying to fit in with white Americans, while trying to stay true to my Asian roots. I studied the Asian culture and my favorite idol was Bruce Lee (more on this below). It was a confusing and depressing childhood. I wasn't Asian enough and I wasn't white enough.
+
 In college, I met a friend who is of Indonesian heritage. We dropped out of college sophomore year to travel through Indo and Vietnam. This is when I started to fully embrace my heritage as well as begin to find the balance of the Eastern and Western culture. 
 
 Fast forward....for decades now, I have studied Taoism and Buddhism. This has brought me so much peace to my struggles of "two worlds." As the famous Buddhist monk Thich Nhat Hanh says "you don't have to be Chinese to enjoy Chinese food, and you don't have to be Buddhist to enjoy Buddhism. I wouldn't consider myself Buddhist, but have enjoyed and gained so much from the teachings. 
