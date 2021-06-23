@@ -1,9 +1,9 @@
 ---
 title: "My Dad and I Couldn't Be More Different"
-date: 2021-07-01
+date: 2021-06-23
 image: "images/mydadandicouldntbemoredifferent-1.jpg"
 author: ["Vincent Chan"]
-categories: ["Image","Text"]
+categories: ["Image", "Text"]
 tags: ["Family", "Identity"]
 description: "A lot of people say I resemble my Dad. We couldn't be more different."
 draft: false
