@@ -1,12 +1,13 @@
 ---
 title: "A Song From A Child Immigrant"
 date: 2020-09-20
+image: "images/asongfromachildimmigrant.png"
 author: ["Hong Tai Wei"]
-image : "images/asongfromachildimmigrant.png"
-categories: ["Video","Text"] 
-tags: ["Immigration","Identity","Music"]
-description: "A Song From A Child Immigrant"
+categories: ["Audio", "Text"] 
+tags: ["Immigration", "Identity", "Music"]
+description: "I'm a hobbyist songwriter and this is my first time writing about a more sensitive topic like racism against Asians in America, based on my own experience as an immigrant."
 draft: false
+type: "post"
 ---
 
 I'm a hobbyist songwriter and this is my first time writing about a more sensitive topic like racism against Asians in America, based on my own experience as an immigrant.
