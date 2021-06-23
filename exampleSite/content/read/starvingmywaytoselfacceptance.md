@@ -1,7 +1,7 @@
 ---
 title: "Starving My Way to Self-Acceptance"
 date: 2021-05-01
-image : "images/starvingmywaytoselfacceptance-1.jpg"
+image : "images/starvingmywaytoselfacceptance-3.jpg"
 # author
 author : ["Judy Tsuei"]
 # categories
@@ -11,9 +11,11 @@ tags: ["Mental Health", "Identity", "Family"]
 description: "Here's to Asian American mental health and speaking up when we've been quiet for so long."
 # save as draft
 draft: false
+type: "post"
 ---
 
 Trigger Warning: Eating Disorders & Suicide
+
 
 When I first started seeking therapy for my eating disorder, my therapist asked how many times I binged and purged, I said, "I dunno, three or four times a week?" 
 
@@ -82,9 +84,10 @@ All of this is to say that if you need help, I hope you get it. I hope you know 
 
 Here's to Asian American mental health and speaking up when we've been quiet for so long.
 
+
 www.fcksavingface.com
 
 
-<img src="/images/starvingmywaytoselfacceptance-2.jpg"/>
+<img src="/images/starvingmywaytoselfacceptance-1.jpg"/>
 
-<img src="/images/starvingmywaytoselfacceptance-3.jpg"/>
+<img src="/images/starvingmywaytoselfacceptance-2.jpg"/>
