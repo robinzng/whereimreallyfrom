@@ -11,6 +11,7 @@ tags: ["Mental Health, Sexuality"]
 description: "As an Asian-American, normalizing mental health is generally difficult. Deciding to normalize the concepts of mental health and sex though (two of the highest taboo-related thoughts in asian culture) is even harder."
 # save as draft
 draft: false
+type: "post"
 ---
 
 As a first generation Vietnamese-American, I was born with unlimited expectations. I needed to respect my parents without any questions, maintain excellent grades, cease any
@@ -41,6 +42,7 @@ Though the epiphany was nice to have, the decision to become a sex therapist was
 I consistently questioned my decision. Is this what you really want? Everytime I asked, I thought about the countless victims who continue to repress certain memories or certain moments. The only way they know how to survive is by repressing parts of their life. I think about the 18 year-old-me who felt that I had to lie about my virginity. Was it worth it? Was talking about it really worth it?
 
 Time passed. I now have my Bachelors of Science in Psychology (4-years) , a Master’s of Science in Marriage and Family Therapy (3 years), and am continuing to pursue a Doctorate of Philosphy in Human Sexuality- Sex therapy (starting this upcoming year). The days of facing those surprised facial expressions are met with my confident tone. My family is continuing to try and accept that the Doctor I am choosing to be, is not quite what they expected. I may not have achieved a multitude of expectations they put out for me, but I feel successful. With the help of my chosen friends and sweet supportive boyfriend, I remain resilient. As days pass, I continue to keep encouraging friends, strangers, and even my family to talk about it, despite the possible pain.
+
 
 <img src="/images/wedonottalkaboutthat-2.jpg"/>
 
