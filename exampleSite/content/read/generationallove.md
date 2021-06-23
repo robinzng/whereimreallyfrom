@@ -11,6 +11,7 @@ tags: ["Family","Immigration"]
 description: "My grandpa passed away back in March 2020, 15 months shy of my university graduation."
 # save as draft
 draft: false
+type: "post"
 ---
 
 My grandpa passed away back in March 2020, 15 months shy of my university graduation. 
