@@ -12,7 +12,7 @@ draft: false
 type: "post"
 ---
 
-My grandmother died last year in September. It was a ten year battle with a disease that attacked her white blood cells and eventually she just became weaker and weaker. Untilmately she passed away with an infection in one of her organs that spread throughout her body. The night she passed, I was the only one by her side in the hospital because of Covid regulations. Before she passed, I ate my dinner and went up to her and told her for the last time that I finished eating. She looked at me, too weak to speak, and nodded. She closed her eyes and not too long after she took her last breath. It was like she was waiting for me to eat before she left.
+My grandmother died last year in September. It was a ten year battle with a disease that attacked her white blood cells and eventually she just became weaker and weaker. Ultimately she passed away with an infection in one of her organs that spread throughout her body. The night she passed, I was the only one by her side in the hospital because of Covid regulations. Before she passed, I ate my dinner and went up to her and told her for the last time that I finished eating. She looked at me, too weak to speak, and nodded. She closed her eyes and not too long after she took her last breath. It was like she was waiting for me to eat before she left.
 
 I wanted to just share with everyone how beautiful my grandma was. I know a lot of us struggle with our Asian identities because of our diasporas. We might feel like outsiders, too ashamed of our cultures to wear it on our sleeves. I never felt like that. I was always so so so proud of who I was. My favorite color was red because of the chinese flag as a child. I begged to go to China every year. My dad brought home Chinese flags for me whenever he would go back. I was so proud of being Chinese. I owe all to my 婆婆。 
 
@@ -25,19 +25,20 @@ She was one of the first female pharmacists back in her home town in China. She 
 I owe so much to her. Without her, I wouldn’t be as strong as I am today. Everyday when I am proud of who I am, I thank her. When I feel like an outsider, I am ashamed of feeling that way. I miss her everyday. 
 
 For all of you out there who are afraid of being proud, remember your families. They left everything they knew for a better life for you and for them. They endured so much hate and struggle. So if you ever look in the mirror and are ashamed of your identity, just remember those who came before you. They think you’re beautiful. You come from strength and beauty.
-
-
-
+<br/>
+<br/>
+<br/>
 <img src="/images/proud-2.jpg"/>
-
-
+<br/>
+<br/>
 <img src="/images/proud-3.jpg"/>
-
-
+<br/>
+<br/>
 <img src="/images/proud-4.jpg"/>
-
-
+<br/>
+<br/>
 <img src="/images/proud-5.jpg"/>
-
-
+<br/>
+<br/>
 <img src="/images/proud-6.jpg"/>
+<br/>
