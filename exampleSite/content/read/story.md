@@ -6,7 +6,7 @@ author: ["Anthony Nguyen"]
 # image
 image: "images/anthony-1.jpg"
 # categories
-categories: ["Image", Text"]
+categories: ["Image", "Text"]
 tags: ["Artist", "Identity", "Immigration"]
 # meta description
 description: "I am beyond humbled and so grateful to be the featured artist on the cover of Harper’s Bazaar Vietnam for their 10th anniversary."
@@ -17,7 +17,7 @@ type: "post"
 
 I am beyond humbled and so grateful to be the featured artist on the cover of Harper’s Bazaar Vietnam for their 10th anniversary, alongside one of the most brilliant artists, muse, and friend that I know- Jessie J. To be recognized for my artistry as a first-generation Vietnamese American from the motherland is mind-blowing. This is my very first time being on a cover, and it is extra special that it’s for Vietnam! Choosing this career path was not at all easy for many different reasons, and I’m happy to have persevered and worked hard for well over a decade in this industry and to be lucky enough to work with such inspiring people. Thank you Harper’s Bazzar Vietnam for having me, and Jessie J for sharing this incredible moment and piece of the spotlight, and to the whole team for making this shoot happen!
 
-**Here’s a peek at one of the interview questions:*
+**Here’s a peek at one of the interview questions:**
 
 *Being Vietnamese American, how did your family respond to you wanting to pursue a career in the arts?*
 
