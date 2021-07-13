@@ -1,6 +1,6 @@
 ---
-title: "Story"
-date: 2020-07-01
+title: "Harper's Bazaar Vietnam Interview"
+date: 2021-08-01
 # author
 author: ["Anthony Nguyen"]
 # image
@@ -17,9 +17,10 @@ type: "post"
 
 I am beyond humbled and so grateful to be the featured artist on the cover of Harper’s Bazaar Vietnam for their 10th anniversary, alongside one of the most brilliant artists, muse, and friend that I know- Jessie J. To be recognized for my artistry as a first-generation Vietnamese American from the motherland is mind-blowing. This is my very first time being on a cover, and it is extra special that it’s for Vietnam! Choosing this career path was not at all easy for many different reasons, and I’m happy to have persevered and worked hard for well over a decade in this industry and to be lucky enough to work with such inspiring people. Thank you Harper’s Bazzar Vietnam for having me, and Jessie J for sharing this incredible moment and piece of the spotlight, and to the whole team for making this shoot happen!
 
+
 **Here’s a peek at one of the interview questions:**
 
-*Being Vietnamese American, how did your family respond to you wanting to pursue a career in the arts?*
+**Being Vietnamese American, how did your family respond to you wanting to pursue a career in the arts?**
 
 As a first generation Vietnamese American, it was extremely tough for me to pursue a career in the arts. My parents escaped communism from South Vietnam as refugees in 1979 to have a better life for my siblings and I. My father was a captain of a boat at 27 years old and rescued 471 people to safety and freedom, so you could only imagine the pressure of wanting the best for your kids raised in the states was a lot to live up to. It was hard for my parents to adjust to raising kids in American culture, and it was even harder for us to fully understand the sacrifices and hardship they went through. I will never be able to live up to their adventure coming here to the states, but I always tried my hardest to make the best out of myself. Pursuing a career in the arts was difficult to understand for them because it’s not something you often see succeed in past Vietnamese traditions, and in reality, it really isn’t an easy career. But to bridge the gap between generations and cultures, I had to work three times harder to prove to my parents and myself that success comes from whatever you put your heart into, and I had to show them that art is my success, and in return is also theirs. I’m happy to say my parents fully acknowledge, support and are very proud of me now.
 
