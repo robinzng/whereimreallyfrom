@@ -1,6 +1,6 @@
 ---
-title: "Harper's Bazaar Vietnam Interview"
-date: 2021-08-01
+title: "Harper's Bazaar Vietnam Feature"
+date: 2021-07-01
 # author
 author: ["Anthony Nguyen"]
 # image
