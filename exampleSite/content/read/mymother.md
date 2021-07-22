@@ -23,13 +23,14 @@ In 1988, an Act of Congress was passed called "The Amerasian Homecoming Act" whi
 
 Two years ago, I gifted my mother a 23andme DNA kit. At this point in her life she was doubtful about finding her father, but she just wanted to know about her ancestry and roots. The results for the kit came back a few weeks later, and we found she was exactly 50% Vietnamese and 50% European descent. Learning about her roots had filled the hole in her heart that had been missing for years, and this was enough for her.
 
-Here's where the story gets crazy and awesome! Earlier this year, while in class, I get an email notification from 23andme (I run my mother's account since she's not so good with technology), and the message is from a lady currently living in North Carolina and it read, "23 and me says you are my niece. Where are you living now?" 
+Here's where the story gets crazy and awesome! Earlier this year, while in class, I get an email notification from 23andme (I run my mother's account since she's not so good with technology), and the message is from a lady currently living in North Carolina and it read, "23andme says you are my niece. Where are you living now?" 
 
 23andme predicted that this woman was my mother's aunt, with 26.1% shared DNA between them. I was dumbfounded and shocked. I remember feeling my heart drop, and wondering if I should step out of my class to call my mother at that very second and let her know the news shes been waiting for her whole life. We found that this woman's brother was in the Green Beret and stationed in Vietnam at the time my mother was born in 1967, so it was without a doubt her father. Photos were exchanged as well and even my grandmother confirmed that this man was my mother's father. Unfortunately, he is no longer here with us today and my mother never had the opportunity to meet her father, but after many emails and text messages later, in July of this year we flew out to North Carolina to meet my mother's family. It was one of the most surreal moments in me and my mother's life and I was so happy for her to finally find the other half she's been missing for all these years.
 
 Pictured below is my mother in her younger years, and her with her two aunts, which are her father's two older sisters.
 
-Thousands of Amerasians came to the United States in the 1980s under the homecoming act but many are still in Vietnam and are not allowed to enter the United States based on appearance alone. They now must have evidence of an American father to immigrate. I've learned that the non-profit organization called Amerasians Without Borders are working hard to reunite Amerasian children with their American families and bring them to the United States by DNA tests. It's pretty incredible!
-
 
 <img src="/images/mymother-2.jpg"/>
+
+
+Thousands of Amerasians came to the United States in the 1980s under the homecoming act but many are still in Vietnam and are not allowed to enter the United States based on appearance alone. They now must have evidence of an American father to immigrate. I've learned that the non-profit organization called Amerasians Without Borders are working hard to reunite Amerasian children with their American families and bring them to the United States by DNA tests. It's pretty incredible!
