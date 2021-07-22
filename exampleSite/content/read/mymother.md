@@ -27,7 +27,7 @@ Here's where the story gets crazy and awesome! Earlier this year, while in class
 
 23andme predicted that this woman was my mother's aunt, with 26.1% shared DNA between them. I was dumbfounded and shocked. I remember feeling my heart drop, and wondering if I should step out of my class to call my mother at that very second and let her know the news shes been waiting for her whole life. We found that this woman's brother was in the Green Beret and stationed in Vietnam at the time my mother was born in 1967, so it was without a doubt her father. Photos were exchanged as well and even my grandmother confirmed that this man was my mother's father. Unfortunately, he is no longer here with us today and my mother never had the opportunity to meet her father, but after many emails and text messages later, in July of this year we flew out to North Carolina to meet my mother's family. It was one of the most surreal moments in me and my mother's life and I was so happy for her to finally find the other half she's been missing for all these years.
 
-Pictured below is my mother in her younger years, and her with her two aunts, which are her father's two older sisters.
+Pictured below is my mother with her two aunts, which are her father's two older sisters.
 
 
 <img src="/images/mymother-2.jpg"/>
