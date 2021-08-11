@@ -11,7 +11,7 @@ tags: ["Education", "Identity", "Immigration"]
 # meta description
 description: "I have a childhood photo of myself that, throughout the years, remained my favorite. It’s of me in a little blue dress, laughing while wearing my mother’s wig."
 # save as draft
-draft: true
+draft: false
 type: "post"
 ---
 
@@ -26,5 +26,6 @@ That small margin for failure, though, is not a big enough space for me to move 
 And then one day, once law school was over, and the Bar Exam was over, and I was finally allowed to sit still, I realized one thing.
 
 I had been worrying so much about what’s next and all the ways I could fail in the future that I missed celebrating how that little brown girl in the blue dress and wig got to where I am today and became this woman I am proud of. As I am writing this, I still do not know whether or not I passed the Bar Exam. However, I am able to be at peace with the fact that I got so, so far, regardless of the outcome of this exam. And now I am able to look back at where I started, and all the places I was along the way, realizing that, this whole time, I did deserve all the spaces that I occupied on my way here.
+
 
 <img src="/images/onoccupyingspaces-2.jpg"/>
