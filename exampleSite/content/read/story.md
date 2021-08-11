@@ -1,42 +1,30 @@
 ---
-title: "My Mother"
-date: 2021-02-01
+title: "On Occupying Spaces"
+date: 2021-08-01
 # author
-author: ["Anonymous"]
+author: ["Shannaz"]
 # image
-image: "images/mymother-1.jpg"
+image: "images/onoccupyingspaces-1.jpg"
 # categories
 categories: ["Image", "Text"]
 tags: ["Family", "Identity", "Immigration"]
 # meta description
-description: "My father told me a story once. About the time he saved a turtle. I was six or seven years old, sitting on the living room floor with my three older brothers, listening with rapt attention."
+description: "I have a childhood photo of myself that, throughout the years, remained my favorite. It’s of me in a little blue dress, laughing while wearing my mother’s wig."
 # save as draft
 draft: true
 type: "post"
 ---
 
-My father told me a story once.
+I have a childhood photo of myself that, throughout the years, remained my favorite. It’s of me in a little blue dress, laughing while wearing my mother’s wig. That childhood photo was taken in our first family home in Jakarta, Indonesia that had cracks on the wall, back when my brother and I had to celebrate our birthdays together every year because our parents could only afford to celebrate one birthday. I remembered as a child wanting us as a family to move out of that house because I was afraid that the house was going to fall apart. To this day, we still call that house “rumah kretek-kretek,” or “the house with the cracks (on the wall).”
 
-About the time he saved a turtle. 
+This past May, I graduated cum laude from a law school in Chicago, having served as Staff Editor on Law Review, in the middle of a global pandemic. About 12 weeks later, I sat for the two-day Bar Exam to earn my license to practice law in the United States.
 
-I was six or seven years old, sitting on the living room floor with my three older brothers, listening with rapt attention. 
+As immigrants, we have very small margins for failure, and the world doesn’t allow us to be just “good enough” to deserve our spot at school, at work, in society. We have to be exceptional at all times, sometimes at the expense of our health, happiness, relationships. This, to me, however, came with the acknowledgement that I was very privileged, as foreign-born individual, to have had the opportunities I had in this country. Many who came from where I came from do not have the same opportunity that forever changed the trajectory of my life.
 
-The story begins on a hot day. My father was a prisoner of war in the re-education camps of Vietnam at the time. The prisoners weren’t fed very often so they had to find creative ways to get food, one of which was to set up animal traps. The prisoner in the cell next to my father’s had just caught a turtle in his trap. 
+That small margin for failure, though, is not a big enough space for me to move the way other people do. The fear of failure, a result of both my cultural upbringing as an Asian woman and the societal demand to constantly prove my worth to occupy any space I walk into as an Asian woman, has always been a ghost that keeps me up at night. As a result, I continue to push myself to keep going and keep doing more, and then more, and even more. I never stop.
 
-Feeling sorry for the turtle, my father asked his neighbor if he wanted to trade for the scallions that my father had been growing. The prisoner said something like, “Sure. I don’t know what to do with this thing anyway,” and tossed the turtle his way.
+And then one day, once law school was over, and the Bar Exam was over, and I was finally allowed to sit still, I realized one thing.
 
-My father tied some leaves to the turtle’s bloodied leg and sent it limping off. After a few steps, it turned around and nodded to my father three times before walking away. He didn’t know what to make of it at the time, thinking it was odd, but three days later, my father was released from prison. 
+I had been worrying so much about what’s next and all the ways I could fail in the future that I missed celebrating how that little brown girl in the blue dress and wig got to where I am today and became this woman I am proud of. As I am writing this, I still do not know whether or not I passed the Bar Exam. However, I am able to be at peace with the fact that I got so, so far, regardless of the outcome of this exam. And now I am able to look back at where I started, and all the places I was along the way, realizing that, this whole time, I did deserve all the spaces that I occupied on my way here.
 
-Looking back, I guess it was pretty heavy for a bedtime story. 
 
-But as children, my brothers and I didn’t really concern ourselves with the darker details. We didn’t know what war meant. And the word prisoner certainly did not exist in our vocabulary, in our limited understanding of the world as children. What we heard was a fairy tale of sorts. And a fable: my father saved a turtle’s life and it, in turn, saved his. 
-
-It was the first time a story captivated me. I replayed it in my mind again and again and soon started telling my own stories, my own fairy tales.
-
-My family and I immigrated from Vietnam to NYC in 1993, when I was three years old. My parents found work doing sweatshop labor at home, so that was my first job in America, at the age of three, helping my family sew ties and cummerbunds to make ends meet. Sometimes, we’d get behind in our quota and had mountains of ties or flight attendant scarves to get through. I remember making up stories in my head to motivate myself to get the job done. I’d separate the big pile into six smaller piles and pretend that each pile was a member of my family and that I had to save them from a burning building. One by one. The only way to save them was to do the work. One pile at a time.
-
-Storytelling, myth-making was not just a way for me to survive, but also a way for me to understand my place in the world, a necessary means of perception when one straddles the line between many identities. And that would become increasingly crucial throughout my life as the hurdles I faced as an immigrant, as a female, as a poor person, became infinitely more difficult.
-
-I never thought, however, that my stories would one day make their way into a book, and that that book would become a memoir of my life, set to publish on June 1st of this year. It has been featured in Vogue’s Best Books of 2021 list alongside literary luminaries such as Kazuo Ishiguro, Jhumpa Lahiri, and Chang-Rae Lee. 
-
-To my fellow Asian community, my unsolicited advice is this: Tell your stories. In whatever language you speak, in the medium of your choosing. Tell your stories. Whether through words, through paint, through sculpture. Through photography, crochet, food, stickers, and memes. Through conversation, through dissent, through boba, tell your stories. Tell the stories of our people and let everyone know how powerful we are, that we come from a long line of warriors, that we come from legend. Tell your stories so that others, like myself, might have the courage to do so as well.
