@@ -7,7 +7,7 @@ author: ["Katelyn Fletcher"]
 image: "images/eastmeetsdress-1.jpg"
 # categories
 categories: ["Image", "Text"]
-tags: ["Family", "Marriage", "China"]
+tags: ["Family", "Identity", "China"]
 # meta description
 description: "My mom was born in Hong Kong and immigrated to the U.S. when she was 12. There she met my dad, who is English/Irish American."
 # save as draft
