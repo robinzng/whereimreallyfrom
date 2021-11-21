@@ -26,6 +26,15 @@ Fast forward 25 years to my own wedding and I knew I wanted to forgo that shame 
 To all the multiracial, mixed race kiddos out there: you are not half of two worlds, or a fraction, or an outsider. You are 100% of everything that makes up you. And I am so proud of you!! 
 
 
+<img src="/images/eastmeetsdress-1.jpg"/>
+
+<img src="/images/eastmeetsdress-2.jpg"/>
+
+<img src="/images/eastmeetsdress-3.jpg"/>
+
+<img src="/images/eastmeetsdress-4.jpg"/>
+
+<img src="/images/eastmeetsdress-5.jpg"/>
 
 
 Thanks to our photographer Kortni Maria for hiking up Whiteface Mountain with us to take these photos!! ❤️
