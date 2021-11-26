@@ -9,15 +9,23 @@ bg_image: "images/slider-bg2.jpg"
 <img src="/images/podcast_logo.png" width="500"/>
 
 We are so excited to launch our new podcast!
-
 Join us on _Asian American Brainstorm_ as we dive into the lesser-known histories of Asian America. Each episode explores how an Asian American's contributions shaped (and were shaped by) the social and political context in which they lived. 
 
-Our first episode is on Chinese American particle physicist Chien-Shiung Wu and our second episode is on Filipino American labor organizer Larry Itliong. Subscribe to our podcast!
+Season 1 of our podcast is out now!
+_E1: Chien-Shiung Wu, CEO of Physics
+_E2: Larry Itliong, Union Hero	
+_E3: Susan Ahn Cuddy, Navy Groundbreaker
+_E4: Prabal Gurung, Fashion Statement Maker
+_E5: Kristi Yamaguchi, Skater Extraordinaire
+_E6: Musicians Minisode_
+..and we'll be back in 2022 to feature more incredible stories!
+
 
 <iframe src="https://open.spotify.com/embed/episode/7AGbmzGPBb0CPHicsCW2po" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 Follow us on [Instagram](https://instagram.com/aab_pod) for upcoming episode details: @aab_pod
+
 
 Closed Captioning available on [YouTube](https://www.youtube.com/playlist?list=PLhk-Ayhk2bpdfgVhJZPqYica94vK9ilbk)
 
