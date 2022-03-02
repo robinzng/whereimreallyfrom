@@ -17,7 +17,7 @@ type: "post"
 
 This is my academic advisor, Dr. Belinda Wee from Husson University in the US. She is originally from Singapore and this post is to give a shoutout to her for being a campus mom for most of our international students at the university.
 
-Being an international student and an Asian in a small city in Maine, it was very hard to make friends and get accustomed to the westerm culture but Dr. Wee made us all feel like home. She would invite us for family dinners and barbecue parties, or even bring home cooked Asian meal to campus for us. All of us forgot what homesickness is like because of her.
+Being an international student and an Asian in a small city in Maine, it was very hard to make friends and get accustomed to the westerm culture but Dr. Wee made us all feel like home. She would invite us for family dinners and barbecue parties, or even bring home cooked Asian meals to campus for us. All of us forgot what homesickness is like because of her.
 
 For all 5 years of college, she was my advisor, the best mentor and one of the best professors that I have ever come across in my academic life. I have graduated my masters from there and returned to Myanmar last year and we are still in touch. She would check in with me every now and then to make sure I’m doing okay.
 
