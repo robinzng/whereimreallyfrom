@@ -8,9 +8,7 @@ bg_image: "images/slider-bg2.jpg"
 
 <img src="/images/podcast_logo.png" width="500"/>
 
-We are so excited to launch the first season of our podcast!
-
-Join us on _Asian American Brainstorm_ as we dive into the lesser-known histories of Asian America. Each episode explores how an Asian American's contributions shaped (and were shaped by) the social and political context in which they lived. 
+We are so excited to launch the first season of our podcast! From the past and present, join us as we dive into the stories of Asian Americans.
 
 
 <iframe src="https://open.spotify.com/embed/episode/7AGbmzGPBb0CPHicsCW2po" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
