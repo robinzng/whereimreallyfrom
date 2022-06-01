@@ -8,11 +8,7 @@ bg_image: "images/slider-bg2.jpg"
 
 <img src="/images/podcast_logo.png" width="500"/>
 
-We are so excited to launch the first season of our podcast! From the past and present, join us as we dive into the stories of Asian Americans.
-
-
-<iframe src="https://open.spotify.com/embed/episode/7AGbmzGPBb0CPHicsCW2po" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
+We are so excited to launch the first and second season of our podcast! From the past and the present, join us as we dive into the stories of Asian Americans.
 
 Follow us on [Instagram](https://instagram.com/aab_pod) for upcoming episode details.
 
