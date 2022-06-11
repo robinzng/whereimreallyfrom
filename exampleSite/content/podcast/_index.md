@@ -10,7 +10,7 @@ bg_image: "images/slider-bg2.jpg"
 
 We are so excited to launch the first and second season of our podcast! From the past and the present, join us as we dive into the stories of Asian Americans.
 
-Follow us on [Instagram](https://instagram.com/aab_pod) for upcoming episode details:
+Follow us on [Instagram](https://instagram.com/aab_pod) for upcoming episode details.
 
 
 Closed Captioning available on [YouTube](https://www.youtube.com/playlist?list=PLhk-Ayhk2bpdfgVhJZPqYica94vK9ilbk)
@@ -29,3 +29,7 @@ Closed Captioning available on [YouTube](https://www.youtube.com/playlist?list=P
 
 
 <a target="_blank" href="https://www.pandora.com/podcast/asian-american-brainstorm/PC:76373" style="display: inline-block; background-color: #000000; background-image: url(https://www.buzzsprout.com/images/badges/listen-on-embed.svg); background-repeat: no-repeat; border: 1px solid #000000; border-radius: 5px; margin: 0 5px 5px 0; text-indent: -9000px; background-position: 10px -593px; height: 40px; width: 115px;">Listen on Pandora</a>
+
+
+<a target="_blank" href="https://www.iheart.com/podcast/269-asian-american-brainstorm-98023843" style="display: inline-block; background-color: #000000; background-image: url(https://www.buzzsprout.com/images/badges/listen-on-embed.svg); background-repeat: no-repeat; border: 1px solid #000000; border-radius: 5px; margin: 0 5px 5px 0; text-indent: -9000px; background-position: 10px -533px; height: 40px; width: 140px;">Listen on iHeartRadio</a>
+
